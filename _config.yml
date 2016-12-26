@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            ND
+tagline:          'a personal page'
+description:      'researching sustainable public finance'
+url:              http://nils.droste.io
+baseurl:          ''
+paginate:         5
+
+# About/contact
+author:
+  name:           'Nils Droste'
+  email:          'nils@droste.io'
+  email_md5:      7a5089a418985742e0de1a9d3c4f5200
+  #twitter:        NilsDroste
+  researchgate:   Nils_Droste
+  github:         NilsDroste
+  orcid:          http://orcid.org/0000-0003-4357-9115
+  google_scholar: https://scholar.google.de/citations?hl=de&user=oHRPDwcAAAAJ
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/lanyon
+
+# Gems
+gems:		          [jekyll-paginate, jekyll-gist]
