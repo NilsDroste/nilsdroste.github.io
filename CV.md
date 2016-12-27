@@ -73,7 +73,7 @@ title: Curriculum Vitae
   </tr>
   <tr>
     <td>10/2011–09/2012</td>
-    <td>Student Research Assistant, Chair for Business and Environmental Policy, University of Oldenburg, Germanytd>
+    <td>Student Research Assistant, Chair for Business and Environmental Policy, University of Oldenburg, Germany</td>
   </tr>
   <tr>
     <td>08/2010–07/2011</td>
