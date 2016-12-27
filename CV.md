@@ -21,20 +21,20 @@ title: Curriculum Vitae
 
 <table>
   <tr>
-    <td>since 2014</th>
-    <td>PhD student in Environmental Economics, Helmholtz Centre for Environmental Research – UFZ & Martin-Luther University Halle-Wittenberg</th>
+    <td>since 2014</td>
+    <td>PhD student in Environmental Economics, Helmholtz Centre for Environmental Research – UFZ & Martin-Luther University Halle-Wittenberg</td>
   </tr>
   <tr>
-    <td>2011-2013</th>
-    <td>M.A. Sustainability Economics and Management, Carl von Ossietzky University Oldenburg, Germany</th>
+    <td>2011-2013</td>
+    <td>M.A. Sustainability Economics and Management, Carl von Ossietzky University Oldenburg, Germany</td>
   </tr>
   <tr>
-    <td>2008-2010</th>
-    <td>B.A. Political Science and Economics, University Bremen, Germany</th>
+    <td>2008-2010</td>
+    <td>B.A. Political Science and Economics, University Bremen, Germany</td>
   </tr>
   <tr>
-    <td>2006-2008</th>
-    <td>Undergraduate Diploma in Sustainability Education, Gaia University International, Steyerberg, Germany</th>
+    <td>2006-2008</td>
+    <td>Undergraduate Diploma in Sustainability Education, Gaia University International, Steyerberg, Germany</td>
   </tr>
 </table>
 
@@ -85,8 +85,7 @@ title: Curriculum Vitae
   </tr>
   <tr>
     <td>03–05/2009</td>
-    <td>Internship, Marketing Study on Organic Agriculture, Friends of the Earth (BUND) Bremen e.V., Germany
-</td>
+    <td>Internship, Marketing Study on Organic Agriculture, Friends of the Earth (BUND) Bremen e.V., Germany</td>
   </tr>
   <tr>
     <td>03–06/2008</td>
