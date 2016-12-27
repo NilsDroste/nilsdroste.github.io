@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+- [Journal Articles](#journal-articles)
+- [Book Chapters](#book-chapters)
+- [Theses](#theses)
+- [Reports](#reports)
+- [Submissions](#submissions)
+- [Working Paper](#working-paper)
+
+---
 ## Journal Articles
 
 + Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
@@ -21,6 +29,7 @@ title: Publications
 
 + Barton, D.N., Rusch, G.M., Ring, I., Emerton, L., **Droste, N.** (2014) Environmental and Conservation Policies – The POLICYMIX Project and Final Conference. *Environmental Policy and Law* *44* (4): 368-371.
 
+---
 
 ## Book Chapters
 
@@ -28,12 +37,15 @@ title: Publications
 
 + **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2016). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
 
+---
 
 ## Theses
 
 + **Droste, N.** (2013) *Naturschutz im föderalen System Deutschlands - Eine ökonomische Perspektive auf einen ökologischen Länderfinanzausgleich*. Master-Thesis. Carl von Ossietzky University Oldenburg, UFZ – Helmholtz Centre for Environmental Research: Oldenburg, Leipzig.
 
 + **Droste, N.** (2010) *Regime effectiveness of climate protection – adapting Elinor Ostrom′s institutional design principles*. Bachelor-Thesis. University Bremen: Bremen.
+
+---
 
 ## Reports
 + Saikku, L., Antikainen, R., **Droste, N.**, Pitkänen, K., Loiseau, E., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2015) *Implementing the green economy in a European Context. Lessons learned from theories, concepts and case studies*. PEER Report No. 3. Helsinki: Partnership for European Environmental Research.
@@ -42,6 +54,7 @@ title: Publications
 
 + Kölling, J., Roeder, O. Siebenhüner, B., Albach, S., Badewien, S., Blaszczyk, P., **Droste, N.**, Fischer, F., Grund, N., Höft, A.F., Klose, K., Paus, C., Podkrajac, F., Pyko, I., Sander, K., Schäfer, E., Schmidt, M., Schweins, I., Stratmann, J., Wenker, N. (2013) *Nachhaltigkeit an der Carl von Ossietzky Universität Oldenburg. Ein Bericht von Studierenden*. Carl von Ossietzky Universität Oldenburg: Oldenburg.
 
+---
 
 ## Submissions
 
@@ -55,6 +68,7 @@ title: Publications
 
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2015). Ecological fiscal transfers in Germany – foundations, design options, and implications. *Submitted to Environmental Policy and Governance*.
 
+---
 
 ## Working Paper
 
