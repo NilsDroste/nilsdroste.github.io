@@ -30,6 +30,8 @@ title: Publications
 
 + Barton, D.N., Rusch, G.M., Ring, I., Emerton, L., **Droste, N.** (2014) Environmental and Conservation Policies – The POLICYMIX Project and Final Conference. *Environmental Policy and Law* *44* (4): 368-371.
 
+<a href="#top">Back to top</a>
+
 ---
 
 ## Book Chapters
@@ -37,6 +39,8 @@ title: Publications
 + Hansjürgens, B., **Droste, N.**, Tockner, K. (2016): Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation, in: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): *Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects*. Heidelberg: Springer; pp. 65-78. doi: [10.1007/978-3-319-18971-0_5](http://dx.doi.org/10.1007/978-3-319-18971-0_5)
 
 + **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2016). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
+
+<a href="#top">Back to top</a>
 
 ---
 
@@ -46,6 +50,8 @@ title: Publications
 
 + **Droste, N.** (2010) *Regime effectiveness of climate protection – adapting Elinor Ostrom′s institutional design principles*. Bachelor-Thesis. University Bremen: Bremen.
 
+<a href="#top">Back to top</a>
+
 ---
 
 ## Reports
@@ -54,6 +60,8 @@ title: Publications
 + Ring, I., Wüstemann, H., Biber-Freudenberger, L., Bonn, A., **Droste, N.**, Hansjürgens, B., (2015) Naturkapital und Klimapolitik: Einleitung, in: Hartje, V., Wüstemann, H., Bonn, A. (eds.)  *Naturkapital Deutschland - TEEB DE: Naturkapital und Klimapolitik - Synergien und Konflikte*. TU Berlin, UFZ – Helmholtz-Zentrum für Umweltforschung: Berlin, Leipzig; pp. 12-19.
 
 + Kölling, J., Roeder, O. Siebenhüner, B., Albach, S., Badewien, S., Blaszczyk, P., **Droste, N.**, Fischer, F., Grund, N., Höft, A.F., Klose, K., Paus, C., Podkrajac, F., Pyko, I., Sander, K., Schäfer, E., Schmidt, M., Schweins, I., Stratmann, J., Wenker, N. (2013) *Nachhaltigkeit an der Carl von Ossietzky Universität Oldenburg. Ein Bericht von Studierenden*. Carl von Ossietzky Universität Oldenburg: Oldenburg.
+
+<a href="#top">Back to top</a>
 
 ---
 
@@ -69,6 +77,8 @@ title: Publications
 
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2015). Ecological fiscal transfers in Germany – foundations, design options, and implications. *Submitted to Environmental Policy and Governance*.
 
+<a href="#top">Back to top</a>
+
 ---
 
 ## Working Paper
@@ -76,3 +86,5 @@ title: Publications
 + **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *UFZ Discussion Paper 10/2016.*
 
 + **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
+
+<a href="#top">Back to top</a>
