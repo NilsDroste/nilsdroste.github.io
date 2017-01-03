@@ -2,7 +2,7 @@
 layout: page
 title: Public Key
 ---
-
+<small>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -423,3 +423,4 @@ xs654/pFQklki2CnL0HEdql96rcXUH4Rr5OzCN2LRV0EyIJXbw5qKaqPX36GZeAq
 tfVFSohgI32iCIYtEhA=
 =XiNv
 -----END PGP PUBLIC KEY BLOCK-----
+</small>
