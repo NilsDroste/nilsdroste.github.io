@@ -8,7 +8,7 @@ title: Publications
 - [Submissions](#submissions)
 - [Work in progress](#work-in-progress)
 - [Reports](#reports-and-chapters-therein)
-- [Other publications](#other-publications)
+- [Other Publications](#other-publications)
 
 
 ---
@@ -83,7 +83,7 @@ title: Publications
 
 ---
 
-## Other Publications / Commentaries
+## Other Publications
 
 + Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
 
