@@ -33,3 +33,8 @@ github:
 
 # Gems
 gems:		          [jekyll-paginate, jekyll-gist]
+
+# Collections
+collections:
+  research:
+    output: true
