@@ -5,10 +5,11 @@ title: Publications
 
 - [Journal Articles](#journal-articles)
 - [Book Chapters](#book-chapters)
-- [Theses](#theses)
-- [Reports](#reports)
 - [Submissions](#submissions)
-- [Working Paper](#working-paper)
+- [Work in progress](#work-in-progress)
+- [Reports](#reports-and-chapters-therin)
+- [Other publications / Commentaries](#other-publications-/-Commentaries)
+
 
 ---
 
@@ -18,9 +19,9 @@ title: Publications
 
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governanc*. forthcoming.
 
-+ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
++ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
-+ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
++ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values*. forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
 
 + **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
@@ -46,11 +47,23 @@ title: Publications
 
 ---
 
-## Theses
+## Submissions
 
-+ **Droste, N.** (2013) *Naturschutz im föderalen System Deutschlands - Eine ökonomische Perspektive auf einen ökologischen Länderfinanzausgleich*. Master-Thesis. Carl von Ossietzky University Oldenburg, UFZ – Helmholtz Centre for Environmental Research: Oldenburg, Leipzig.
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Econmics*
 
-+ **Droste, N.** (2010) *Regime effectiveness of climate protection – adapting Elinor Ostrom′s institutional design principles*. Bachelor-Thesis. University Bremen: Bremen.
++ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio-Economy: a comparative analysis. *Submitted to Journal of Cleaner Production*
+
+<a href="#top">Back to top</a>
+
+---
+
+## Work in progess
+
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Ecosystem service research - outlining the emergence and evolution of salient topics through latent Dirichlet allocation
+
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers in Portugal – a Bayesian structural time series approach.
+
++ **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
 
 <a href="#top">Back to top</a>
 
@@ -65,26 +78,6 @@ title: Publications
 + Ring, I., Wüstemann, H., Biber-Freudenberger, L., Bonn, A., **Droste, N.**, Hansjürgens, B., (2015) Naturkapital und Klimapolitik: Einleitung, in: Hartje, V., Wüstemann, H., Bonn, A. (eds.)  *Naturkapital Deutschland - TEEB DE: Naturkapital und Klimapolitik - Synergien und Konflikte*. TU Berlin, UFZ – Helmholtz-Zentrum für Umweltforschung: Berlin, Leipzig; pp. 12-19.
 
 + Kölling, J., Roeder, O. Siebenhüner, B., Albach, S., Badewien, S., Blaszczyk, P., **Droste, N.**, Fischer, F., Grund, N., Höft, A.F., Klose, K., Paus, C., Podkrajac, F., Pyko, I., Sander, K., Schäfer, E., Schmidt, M., Schweins, I., Stratmann, J., Wenker, N. (2013) *Nachhaltigkeit an der Carl von Ossietzky Universität Oldenburg. Ein Bericht von Studierenden*. Carl von Ossietzky Universität Oldenburg: Oldenburg.
-
-<a href="#top">Back to top</a>
-
----
-
-## Submissions
-
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Econmics*
-
-+ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio-Economy: a comparative analysis. *Submitted to Journal of Cleaner Production*
-
-<a href="#top">Back to top</a>
-
----
-
-## Working Paper
-
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers in Portugal – a Bayesian structural time series approach.
-
-+ **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
 
 <a href="#top">Back to top</a>
 
