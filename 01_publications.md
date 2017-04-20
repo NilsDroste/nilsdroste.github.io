@@ -14,7 +14,15 @@ title: Publications
 
 ## Journal Articles
 
-+ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
++ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil - a microeconometric panel data approach. *Environmental Policy and Governance*. forthcoming. doi: [10.1002/eet.1760](http://dx.doi.org/10.1002/eet.1760)
+
++ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governanc*. forthcoming.
+
++ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
+
++ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
+
++ **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
 + **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* *135*: 426–434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
 
@@ -22,23 +30,17 @@ title: Publications
 
 + Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* *139*: 666-676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
 
-+ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2016) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Forthcoming in Environmental Values*
-
-+ **Droste, N.**, Meya, J. N. (2016): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management*. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
-
-+ **Droste, N.**, Freitas Oliveira, R. (2016) On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
-
-+ Barton, D.N., Rusch, G.M., Ring, I., Emerton, L., **Droste, N.** (2014) Environmental and Conservation Policies – The POLICYMIX Project and Final Conference. *Environmental Policy and Law* *44* (4): 368-371.
-
 <a href="#top">Back to top</a>
 
 ---
 
 ## Book Chapters
 
-+ Hansjürgens, B., **Droste, N.**, Tockner, K. (2016): Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation, in: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): *Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects*. Heidelberg: Springer; pp. 65-78. doi: [10.1007/978-3-319-18971-0_5](http://dx.doi.org/10.1007/978-3-319-18971-0_5)
++ Illes, A., Kettunen, M., ten Brink, P., Santos, R., **Droste, N.**, Ring, I. (2017). Exploring the policy mix for biodiversity financing: Opportunities provided by environmental fiscal instruments in the EU. Forthcoming in S.E. Weishaar, L. Kreiser, J.E. Milne, H. Ashiabor, M. Mehling (eds.): *The Green Market Transition - Carbon Taxes, Energy Subsidies and Smart Instrument Mixes*. Cheltenham: Edward Elgar.
 
 + **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2016). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
+
++ Hansjürgens, B., **Droste, N.**, Tockner, K. (2016): Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation, in: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): *Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects*. Heidelberg: Springer; pp. 65-78. doi: [10.1007/978-3-319-18971-0_5](http://dx.doi.org/10.1007/978-3-319-18971-0_5)
 
 <a href="#top">Back to top</a>
 
@@ -54,7 +56,10 @@ title: Publications
 
 ---
 
-## Reports
+## Reports and Chapters therein
+
++ Kettunen, M., Illes, A., Rayment, M., Primmer, E., Verstraeten, Y., Rekola, A., Ring, I., Tucker, G., Baldock, D., **Droste, N.**, Santos, R., Rantala, S., Ebrahim, N. and ten Brink, P. (2017). *Integration approach to EU biodiversity financing: evaluation of results and analysis of options for the future*. Institute for European Environmental Policy (IEEP): Brussels / London.
+
 + Saikku, L., Antikainen, R., **Droste, N.**, Pitkänen, K., Loiseau, E., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2015) *Implementing the green economy in a European Context. Lessons learned from theories, concepts and case studies*. PEER Report No. 3. Helsinki: Partnership for European Environmental Research.
 
 + Ring, I., Wüstemann, H., Biber-Freudenberger, L., Bonn, A., **Droste, N.**, Hansjürgens, B., (2015) Naturkapital und Klimapolitik: Einleitung, in: Hartje, V., Wüstemann, H., Bonn, A. (eds.)  *Naturkapital Deutschland - TEEB DE: Naturkapital und Klimapolitik - Synergien und Konflikte*. TU Berlin, UFZ – Helmholtz-Zentrum für Umweltforschung: Berlin, Leipzig; pp. 12-19.
@@ -67,15 +72,9 @@ title: Publications
 
 ## Submissions
 
-+ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio-Economy: a comparative analysis. *Submitted to Research Policy.*
+**Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Econmics*
 
-+ **Droste, N.**, Bartkowski, B. (2016) Ecosystem service valuation for national accounting - A reply to Obst, Hein and Edens. *Submitted to Environmental and Resource Economics*.
-
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers in Portugal – a Bayesian structural time series approach. *Submitted to Land Economics*
-
-+ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2015) Ecological Fiscal Transfers in Brazil – incentivizing or compensating conservation? *Submitted to Environmental Policy and Governance.*
-
-+ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2015). Ecological fiscal transfers in Germany – foundations, design options, and implications. *Submitted to Environmental Policy and Governance*.
++ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio-Economy: a comparative analysis. *Submitted to Journal of Cleaner Production*
 
 <a href="#top">Back to top</a>
 
@@ -83,8 +82,22 @@ title: Publications
 
 ## Working Paper
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *UFZ Discussion Paper 10/2016.*
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers in Portugal – a Bayesian structural time series approach.
 
 + **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
 
 <a href="#top">Back to top</a>
+
+---
+
+## Other Publications / Commentaries
+
++ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
+
++ **Droste, N.**, Freitas Oliveira, R. (2016) On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
+
++ Barton, D.N., Rusch, G.M., Ring, I., Emerton, L., **Droste, N.** (2014) Environmental and Conservation Policies – The POLICYMIX Project and Final Conference. *Environmental Policy and Law* *44* (4): 368-371.
+
+<a href="#top">Back to top</a>
+
+---
