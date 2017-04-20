@@ -7,8 +7,8 @@ title: Publications
 - [Book Chapters](#book-chapters)
 - [Submissions](#submissions)
 - [Work in progress](#work-in-progress)
-- [Reports](#reports-and-chapters-therin)
-- [Other publications / Commentaries](#other-publications-/-Commentaries)
+- [Reports](#reports-and-chapters-therein)
+- [Other publications](#other-publications)
 
 
 ---
@@ -57,7 +57,7 @@ title: Publications
 
 ---
 
-## Work in progess
+## Work in progress
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Ecosystem service research - outlining the emergence and evolution of salient topics through latent Dirichlet allocation
 
