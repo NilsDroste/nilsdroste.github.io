@@ -72,7 +72,7 @@ title: Publications
 
 ## Submissions
 
-**Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Econmics*
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Econmics*
 
 + D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio-Economy: a comparative analysis. *Submitted to Journal of Cleaner Production*
 
