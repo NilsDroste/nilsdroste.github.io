@@ -39,7 +39,7 @@ title: Publications
 
 + Illes, A., Kettunen, M., ten Brink, P., Santos, R., **Droste, N.**, Ring, I. (2017). Exploring the policy mix for biodiversity financing: Opportunities provided by environmental fiscal instruments in the EU. Forthcoming in S.E. Weishaar, L. Kreiser, J.E. Milne, H. Ashiabor, M. Mehling (eds.): *The Green Market Transition - Carbon Taxes, Energy Subsidies and Smart Instrument Mixes*. Cheltenham: Edward Elgar.
 
-+ **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2016). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
++ **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
 
 + Hansjürgens, B., **Droste, N.**, Tockner, K. (2016): Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation, in: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): *Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects*. Heidelberg: Springer; pp. 65-78. doi: [10.1007/978-3-319-18971-0_5](http://dx.doi.org/10.1007/978-3-319-18971-0_5)
 
