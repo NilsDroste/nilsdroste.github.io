@@ -50,7 +50,7 @@ title: Publications
 
 ## Working Paper
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers – the case of Portugal. *UFZ Discussion Paper 3/2017* [download link](http://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers – the case of Portugal. *UFZ Discussion Paper 3/2017*. [download link](http://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 <a href="#top">Back to top</a>
 
@@ -92,7 +92,7 @@ title: Publications
 
 ## Other Publications
 
-+ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
++ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58. 
 
 + **Droste, N.**, Freitas Oliveira, R. (2016) On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
 
