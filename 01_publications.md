@@ -6,6 +6,7 @@ title: Publications
 - [Journal Articles](#journal-articles)
 - [Book Chapters](#book-chapters)
 - [Submissions](#submissions)
+- [Working Paper](#working-paper)
 - [Work in progress](#work-in-progress)
 - [Reports](#reports-and-chapters-therein)
 - [Other Publications](#other-publications)
@@ -47,6 +48,14 @@ title: Publications
 
 ---
 
+## Working Paper
+
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers – the case of Portugal. *UFZ Discussion Paper 3/2017* [download link](http://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
+
+<a href="#top">Back to top</a>
+
+---
+
 ## Submissions
 
 + **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2016) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Economics*
@@ -60,8 +69,6 @@ title: Publications
 ## Work in progress
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Ecosystem service research - outlining the emergence and evolution of salient topics through latent Dirichlet allocation
-
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers in Portugal – a Bayesian structural time series approach.
 
 + **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
 
