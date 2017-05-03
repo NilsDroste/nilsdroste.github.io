@@ -18,7 +18,7 @@ title: Publications
 
 + **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil - a microeconometric panel data approach. *Environmental Policy and Governance*. forthcoming. doi: [10.1002/eet.1760](http://dx.doi.org/10.1002/eet.1760)
 
-+ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governanc*. forthcoming.
++ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governance*. forthcoming.
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
@@ -92,7 +92,7 @@ title: Publications
 
 ## Other Publications
 
-+ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58. 
++ Meya, J., **Droste, N.**, Klauer, B. (2016) Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
 
 + **Droste, N.**, Freitas Oliveira, R. (2016) On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
 
