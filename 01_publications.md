@@ -50,7 +50,7 @@ title: Publications
 
 ## Working Paper
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2016) Decentralization effects in ecological fiscal transfers – the case of Portugal. *UFZ Discussion Paper 3/2017*. [download link](http://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *UFZ Discussion Paper 3/2017*. [download link](http://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 <a href="#top">Back to top</a>
 
