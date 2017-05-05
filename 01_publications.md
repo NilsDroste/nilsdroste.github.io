@@ -22,7 +22,7 @@ title: Publications
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
-+ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values*. forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
++ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26. forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
 
 + **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
@@ -40,7 +40,7 @@ title: Publications
 
 + Illes, A., Kettunen, M., ten Brink, P., Santos, R., **Droste, N.**, Ring, I. (2017). Exploring the policy mix for biodiversity financing: Opportunities provided by environmental fiscal instruments in the EU. Forthcoming in S.E. Weishaar, L. Kreiser, J.E. Milne, H. Ashiabor, M. Mehling (eds.): *The Green Market Transition - Carbon Taxes, Energy Subsidies and Smart Instrument Mixes*. Cheltenham: Edward Elgar.
 
-+ **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer.
++ **Droste, N.**, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. Forthcoming in: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) *Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy*. Heidelberg: Springer. doi: [10.1007/978-3-319-56091-5_18](http://dx.doi.org/10.1007/978-3-319-56091-5_18)
 
 + Hansjürgens, B., **Droste, N.**, Tockner, K. (2016): Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation, in: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): *Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects*. Heidelberg: Springer; pp. 65-78. doi: [10.1007/978-3-319-18971-0_5](http://dx.doi.org/10.1007/978-3-319-18971-0_5)
 
