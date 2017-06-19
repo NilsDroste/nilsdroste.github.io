@@ -28,7 +28,7 @@ Given that there needs to be a consistency, there still remain questions about O
 
 ***We say***: Right. Stated preference methods have been used to estimate consumer rents and the like. But they can also be used to estimate a marginal price at a given quantity. Therefore, we cannot exclude them from accounting usage only because they are also used for other methods. Furthermore, if we do not know how much people want (and stated preference methods estimate a willingness to pay as a surrogate) a certain ES, how do we know whether production level of that service are below (or above?) the socially desired levels?
 
-**How can we refrain from cross-triangulating accounting values with different sources of information if we want them to be as exact as possible? Aren't people's preferences are one of the central sources of information on goods and services not traded in any market?**
+*How can we refrain from cross-triangulating accounting values with different sources of information if we want them to be as exact as possible? Aren't people's preferences are one of the central sources of information on goods and services not traded in any market?*
 
 ## (3)
 
@@ -36,7 +36,7 @@ Given that there needs to be a consistency, there still remain questions about O
 
 ***We say***: Capital stock values may decline over times, e.g. through usage and a declining remaining life-time. Ecosystem asset values may decline through non-sustainable use (because productive capacities only decline through over-usage). Depreciation measures a loss in value from one period to the other. Restoration measures the loss in value from one period to the other. Both account for a change in value from one period and can thus be considered equivalent.
 
-**How can we value degradation with replacement costs if that implicitely assumes a substitutability? Isn't sustainable development about maintaining the possibilities for future generations? How can we surely know that an ecological asset can be replaced by man-made alternatives?
+*How can we value degradation with replacement costs if that implicitely assumes a substitutability? Isn't sustainable development about maintaining the possibilities for future generations? How can we surely know that an ecological asset can be replaced by man-made alternatives?*
 
 --
 
