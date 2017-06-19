@@ -8,7 +8,7 @@ title: Ecosystem service accounting
 
 --
 
-[Bartosz Barkowski](https://skeptischeoekonomie.wordpress.com/) and I, we wrote a reply to Obst, Eden and Hein's [article](https://link.springer.com/article/10.1007%2Fs10640-017-0146-3) on ecosystem services valuation for national standards. I have also published a blogpost at the German Ecosystem Service Partnership website [here] -- which is in German, though. At this site I will only give a brief summary of our main points -- whoever is interested is welcome to request a version of the reply in case it cannot easily be accessed.
+[Bartosz Barkowski](https://skeptischeoekonomie.wordpress.com/) and I, we wrote a reply to Obst, Eden and Hein's [article](https://link.springer.com/article/10.1007%2Fs10640-017-0146-3) on ecosystem services valuation for national standards. I have also published a blogpost at the German Ecosystem Service Partnership website [here](http://www.esp-de.de/oekonomische-methoden-fuer-nationale-oekosystemleistungsbilanzen/) -- which is in German, though. At this site I will only give a brief summary of our main points -- whoever is interested is welcome to request a version of the reply in case it cannot easily be accessed.
 
 In my view, one of the main lines of Obst et al.'s article is that the valuation methods for ES accounting need to be consistent with the standards for national accounting in general. That is just fair enough -- any inconsistency would not allow for a proper comparison of the industrial economic output and the ecological effects of production. The very essence and main purpose of ecosystem would be counteracted. '
 
