@@ -5,8 +5,8 @@ title: Publications
 
 - [Journal Articles](#journal-articles)
 - [Book Chapters](#book-chapters)
-<!-- - [Submissions](#submissions) -->
-- [Working Paper](#working-paper)
+- [Submissions](#submissions)
+<!-- - [Working Paper](#working-paper) -->
 - [Work in progress](#work-in-progress)
 - [Reports](#reports-and-chapters-therein)
 - [Other Publications](#other-publications)
