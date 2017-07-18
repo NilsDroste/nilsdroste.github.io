@@ -22,7 +22,7 @@ title: Publications
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
-+ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26. forthcoming. [pre-print](http://www.whpress.co.uk/EV/papers/D'Amato.pdf)
++ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26: 413–435. [pre-print](http://nils.droste.io/research/D'Amatoetal2017.pdf)
 
 + **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
