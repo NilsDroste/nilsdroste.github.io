@@ -7,7 +7,7 @@ title: ALTER-Net Summer School
   A network for life!
 </div>
 
-![Peyresq]({{ site.url }}/pics/Peyresq.png)
+![Peyresq](pics/Peyresq.png)
 <p style="text-align: right;"><sub><sup>Source:[Lovisa Nilsson](http://www.cec.lu.se/lovisa-nilsson)</sup></sub></p>
 
 I am back from a fabulous experience in Peyresq, France at the [ALTER-Net Summer School](www.alter-net.info/summer-school), an intense 10 day summerschool on biodiversity, ecosystem services, and science-policy interfaces in a gorgeous village in Alpes-de-Haute-Provence.
@@ -33,7 +33,7 @@ To help ***scientific self-reflection***, we heard inspiring inputs about the "p
 ## Groupwork
 We were working on a project: "*H*ow to maintain w*ell*being and b*io*diver*s*ity in the upper Verdon Valley?" (Helios). Within 7 days we were to deliver an analysis of the current status quo including trends, develop scenarios, assess trade-offs and synergies, propose policy-measures and presenting the findings. A great task which - after we had settled for understanding it as a simulation without the need to do all these steps in all possible detail - became great fun! The original working group proposal looked like this:
 
-![Helios Structure]({{ site.url }}/pics/Helios_Structure.png)
+![Helios Structure](pics/Helios_Structure.png)
 <p style="text-align: right;"><sub><sup>Source:[ALTER‐Net Summer School 2017
 Working group project](http://www.cec.lu.se/lovisa-nilsson)</sup></sub></p>
 
@@ -45,7 +45,7 @@ A really helpful lesson was the technique that was employed: **[Kanban](https://
 Getting in touch with 34 highly skilled young scientists from not just Europe but all over the place was a great source of inspiration. Very bright minds! I am quite sure a couple of us will remain connected and strive together towards solving the world's socio-ecological crises! I am deeply grateful for you partaking in this experience. Imagine all us people, working for the world (sorry, this is an insider)!
 
 ## Peyresq
-![Peyresq]({{ site.url }}/pics/peyresq2.png)
+![Peyresq](pics/peyresq2.png)
 <p style="text-align: right;"><sub><sup>Source:[Association Européenne pour la culture et l'humanisme artistique et scientifique](http://www.peiresc.org/?lang=en)</sup></sub></p>
 
 A beautiful, refurbished historicall mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. Perfect for hosting the summer school!
