@@ -22,7 +22,7 @@ title: Publications
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
-+ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio economy: a comparative analysis of sustainability concepts. *Journal of Cleaner Production*. forthcoming doi:[10.1016/j.jclepro.2017.09.053](http://dx.doi.org/10.1016/j.jclepro.2017.09.053)
++ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2016) Green, Circular, Bio economy: a comparative analysis of sustainability concepts. *Journal of Cleaner Production*. forthcoming doi: [10.1016/j.jclepro.2017.09.053](http://dx.doi.org/10.1016/j.jclepro.2017.09.053)
 
 + D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26: 413–435. doi: [10.3197/096327117X14976900137331](http://dx.doi.org/10.3197/096327117X14976900137331); [pre-print](http://nils.droste.io/research/articles/D'Amatoetal2017.pdf)
 
