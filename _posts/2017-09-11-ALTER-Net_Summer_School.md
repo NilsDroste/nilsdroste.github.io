@@ -8,7 +8,7 @@ title: ALTER-Net Summer School
 </div>
 
 <!-- <img src="{{ site.baseurl }}/_pics/Peyresq.png"> -->
-![Peyresq]({{ site.baseurl }}/_pics/Peyresq.png)
+![Peyresq](pics/Peyresq.png)
 <p style="text-align: right;"><sub><sup>Source:
 <a href="http://www.cec.lu.se/lovisa-nilsson">Lovisa Nilsson</a></sup></sub></p>
 
