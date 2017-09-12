@@ -48,7 +48,7 @@ Getting in touch with 34 highly skilled young scientists from not just Europe bu
 
 ## Peyresq
 ![Peyresq](http://nils.droste.io/pics/Peyresq_Village.jpg)
-<p style="text-align: right;"><sub><sup>Source:[Association Européenne pour la culture et l'humanisme artistique et scientifique](http://www.peiresc.org/?lang=en)</sup></sub></p>
+<p style="text-align: right;"><sub><sup>Source: Ph. Malburet</sup></sub></p>
 
 A beautiful, refurbished historicall mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. Perfect for hosting the summer school!
 
