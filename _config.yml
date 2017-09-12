@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+mathengine:       mathjax
 
 # Permalinks
 permalink:        pretty
@@ -11,6 +12,7 @@ title:            Nils Droste
 tagline:          'a personal page'
 description:      'researching sustainable public finance'
 url:              http://nils.droste.io
+urlimg:           http://nils.droste.io/pics
 baseurl:          ''
 paginate:         5
 
