@@ -8,10 +8,9 @@ title: ALTER-Net Summer School
 </div>
 
 <!-- <img src="{{ site.baseurl }}/_pics/Peyresq.png"> -->
-![Peyresq][peyresq1]
-[peyresq1]:http://nils.droste.io/pics/Peyresq.png
-<!-- ![Peyresq]({{ site.baseurl }}/_pics/Peyresq.png) -->
-<p style="text-align: right;"><sub><sup>Source:[Lovisa Nilsson](http://www.cec.lu.se/lovisa-nilsson)</sup></sub></p>
+![Peyresq]({{ site.baseurl }}/_pics/Peyresq.png)
+<p style="text-align: right;"><sub><sup>Source:
+<a href="http://www.cec.lu.se/lovisa-nilsson">Lovisa Nilsson</a></sup></sub></p>
 
 I am back from a fabulous experience in Peyresq, France, at the [ALTER-Net Summer School](www.alter-net.info/summer-school). It was an intense 10 day summerschool on biodiversity, ecosystem services, and science-policy interfaces in a gorgeous village in Alpes-de-Haute-Provence.
 
