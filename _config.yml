@@ -37,12 +37,13 @@ github:
 gems:		          [jekyll-paginate, jekyll-gist]
 
 # Collections
-collections:
-  research:
-    output: true
+# collections:
+#   research:
+#     output: true
   # pics:
   #   output: true
 
 # Include
 include :
+  - _research
   - _pics
