@@ -7,7 +7,7 @@ title: ALTER-Net Summer School
   A network for life!
 </div>
 
-<img src="{{ site.baseurl }}/pics/Peyresq.png">
+<img src="{{ site.baseurl }}/_pics/Peyresq.png">
 <!-- ![Peyresq](pics/Peyresq.png) -->
 <p style="text-align: right;"><sub><sup>Source:[Lovisa Nilsson](http://www.cec.lu.se/lovisa-nilsson)</sup></sub></p>
 
