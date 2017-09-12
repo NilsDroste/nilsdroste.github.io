@@ -7,7 +7,7 @@ title: ALTER-Net Summer School
   A network for life!
 </div>
 
-![Peyresq]({{ site.urlimg }}/Peyresq.png?raw=true)
+![Peyresq]({{ site.urlimg }}Peyresq.png?raw=true)
 <p style="text-align: right;"><sub><sup>Source:
 <a href="http://www.cec.lu.se/lovisa-nilsson">Lovisa Nilsson</a></sup></sub></p>
 
@@ -32,7 +32,7 @@ To help ***scientific self-reflection***, we heard inspiring inputs about the "p
 [Nicolas Dedonker](https://directory.unamur.be/staff/ndendonc), [Brooke Wilkerson](https://no.linkedin.com/in/brooke-wilkerson-3379a226), [Uta Fritsch](http://www.eurac.edu/en/aboutus/organisation/servicedepartments/press/pages/staffdetails.aspx?persId=10223), [Klara Winkler](http://www.uni-oldenburg.de/en/wire/ecoeco/team/klara-winkler-m-sc/) and [Emilie Crouzat](http://www-leca.ujf-grenoble.fr/pageperso/crouzate/) did an excellent job in guiding us through the participatory group work, being both considerably respectful and insightfully nudging. You did a great job. Thank you!
 
 ## Groupwork
-We were working on a project: "***H***ow to maintain w***ell***being and b***io***diver***s***ity in the upper Verdon Valley?" (***Helios***). Within 7 days we were to deliver an analysis of the current status quo including trends, develop scenarios, assess trade-offs and synergies, propose policy-measures and present the findings. A challenging task which - after we had settled for understanding it as a simulation without the need to do all these steps in all possible detail - became great fun! The original working group proposal looked like this:
+We were working on a project: "***H***ow to maintain w***el***lbeing and b***io***diver***s***ity in the upper Verdon Valley?" (***Helios***). Within 7 days we were to deliver an analysis of the current status quo including trends, develop scenarios, assess trade-offs and synergies, propose policy-measures and present the findings. A challenging task which - after we had settled for understanding it as a simulation without the need to do all these steps in all possible detail - became great fun! The original working group proposal looked like this:
 
 <!-- ![Helios Structure]({{ site.urlimg }}/Helios_Structure.jpg?raw=true) -->
 <p style="text-align: right;"><sub><sup>Source: ALTER‐Net Summer School 2017

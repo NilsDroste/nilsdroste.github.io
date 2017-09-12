@@ -41,6 +41,6 @@ collections:
   research:
     output: true
 
-# include
+# Include
 include :
   - _pics
