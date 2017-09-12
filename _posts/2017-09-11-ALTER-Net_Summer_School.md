@@ -22,7 +22,7 @@ Five elements contributed essentially to the extraordinariness of the experience
 - [the well-structured and mostly self-organized group work](#groupwork)
 - [my fellow peers (who are really great people!)](#peers)
 and of course,
-- [the beautiful environment, the village of Peyresq, and the staff](#peyresq)
+- [the village of Peyresq, and the staff](#peyresq)
 
 ## Speakers
 
@@ -51,6 +51,6 @@ Getting in touch with 34 highly skilled young scientists from not just Europe bu
 ![Peyresq2]({{ site.url }}/pics/Peyresq_Village.jpg?raw=true)
 <p style="text-align: right;"><sub><sup>Source: Ph. Malburet</sup></sub></p>
 
-A beautiful, refurbished historicall mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. Perfect for hosting the summer school!
+A beautiful, refurbished historical mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. The staff was very friendly and the food was delicious. Perfect for hosting the summer school!
 
 ***For me this was a 100 per cent recommendable experience. If you ever have the chance to attend -- do it!***
