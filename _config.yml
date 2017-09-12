@@ -40,3 +40,5 @@ gems:		          [jekyll-paginate, jekyll-gist]
 collections:
   research:
     output: true
+  images:
+    output: true
