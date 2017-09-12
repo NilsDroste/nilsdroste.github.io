@@ -43,6 +43,6 @@ collections:
   research:
     output:       true
 
-# Include
-include :
-  - _research
+# # Include
+# include :
+#   - _research
