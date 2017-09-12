@@ -48,7 +48,7 @@ A really helpful lesson was the technique that was employed: **[Kanban](https://
 Getting in touch with 34 highly skilled young scientists from not just Europe but all over the place was a great source of inspiration. Very bright minds! I am quite sure a couple of us will remain connected and strive together towards solving the world's socio-ecological crises! I am deeply grateful for you partaking in this experience. Imagine all us people, working for the world (sorry, this is an insider)!
 
 ## Peyresq
-![Peyresq]({{ site.url }}/pics/Peyresq_Village.jpg)
+![Peyresq2]({{ site.url }}/pics/Peyresq_Village.jpg)
 <p style="text-align: right;"><sub><sup>Source: Ph. Malburet</sup></sub></p>
 
 A beautiful, refurbished historicall mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. Perfect for hosting the summer school!
