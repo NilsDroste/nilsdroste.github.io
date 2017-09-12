@@ -8,7 +8,7 @@ title: ALTER-Net Summer School
 </div>
 
 <!-- <img src="{{ site.baseurl }}/_pics/Peyresq.png"> -->
-![Peyresq](pics/Peyresq.png)
+![Peyresq](http://nils.droste.io/pics/Peyresq.png)
 <p style="text-align: right;"><sub><sup>Source:
 <a href="http://www.cec.lu.se/lovisa-nilsson">Lovisa Nilsson</a></sup></sub></p>
 
@@ -35,9 +35,9 @@ To help ***scientific self-reflection***, we heard inspiring inputs about the "p
 ## Groupwork
 We were working on a project: "***H***ow to maintain w***ell***being and b***io***diver***s***ity in the upper Verdon Valley?" (***Helios***). Within 7 days we were to deliver an analysis of the current status quo including trends, develop scenarios, assess trade-offs and synergies, propose policy-measures and present the findings. A challenging task which - after we had settled for understanding it as a simulation without the need to do all these steps in all possible detail - became great fun! The original working group proposal looked like this:
 
-![Helios Structure](pics/Helios_Structure.png)
-<p style="text-align: right;"><sub><sup>Source:[ALTER‐Net Summer School 2017
-Working group project](http://www.cec.lu.se/lovisa-nilsson)</sup></sub></p>
+![Helios Structure](http://nils.droste.io/pics/Helios_Structure.jpg)
+<p style="text-align: right;"><sub><sup>Source: ALTER‐Net Summer School 2017
+Working group project preparation document</sup></sub></p>
 
 In the end, we had developed a far more complicated, yet effective structure with further special taskforce groups on trade-offs and synergies, policy proposals, creative communication, and the scenarion envisioning. We were delving into a lively and really inspiring collaborative process, that has taught me a lot on structures and collaboration.
 
@@ -47,7 +47,7 @@ A really helpful lesson was the technique that was employed: **[Kanban](https://
 Getting in touch with 34 highly skilled young scientists from not just Europe but all over the place was a great source of inspiration. Very bright minds! I am quite sure a couple of us will remain connected and strive together towards solving the world's socio-ecological crises! I am deeply grateful for you partaking in this experience. Imagine all us people, working for the world (sorry, this is an insider)!
 
 ## Peyresq
-![Peyresq](pics/peyresq2.png)
+![Peyresq](http://nils.droste.io/pics/Peyresq_Village.jpg)
 <p style="text-align: right;"><sub><sup>Source:[Association Européenne pour la culture et l'humanisme artistique et scientifique](http://www.peiresc.org/?lang=en)</sup></sub></p>
 
 A beautiful, refurbished historicall mountain village, remote, without high-speed internet, named after the French humanist [Nicolas-Claude Fabri de Peiresc](https://en.wikipedia.org/wiki/Nicolas-Claude_Fabri_de_Peiresc) and one of the best places I have been so far. Perfect for hosting the summer school!
