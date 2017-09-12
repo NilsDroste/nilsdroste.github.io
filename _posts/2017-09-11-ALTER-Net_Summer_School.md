@@ -40,7 +40,7 @@ We were working on a project: "***H***ow to maintain w***el***lbeing and b***io*
 <p style="text-align: right;"><sub><sup>Source: ALTER‐Net Summer School 2017
 Working group project preparation document</sup></sub></p>
 
-In the end, we had developed a far more complicated, yet effective structure with further special taskforce groups on trade-offs and synergies, policy proposals, creative communication, and the scenarion envisioning. We were delving into a lively and really inspiring collaborative process, that has taught me a lot on structures and collaboration.
+In the end, we had developed a far more complicated, yet effective structure with further special taskforce groups on trade-offs and synergies, policy proposals, creative communication, and the scenario envisioning. We were delving into a lively and really inspiring collaborative process, that has taught me a lot on structures and collaboration.
 
 A really helpful lesson was the technique that was employed: **[Kanban](https://en.wikipedia.org/wiki/Kanban)**, which allowed to transparently and flexibly schedule, prioritize, breakdown, implement and validate tasks within working groups. It is really worth being tried! It even inspired a couple of songs that were composed in our leisure time.
 
