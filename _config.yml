@@ -40,7 +40,9 @@ gems:		          [jekyll-paginate, jekyll-gist]
 collections:
   research:
     output: true
+  pics:
+    output: true
 
-# Include
-include :
-  - _pics
+# # Include
+# include :
+#   - _pics
