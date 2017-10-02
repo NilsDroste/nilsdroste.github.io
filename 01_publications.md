@@ -70,9 +70,9 @@ title: Publications
 
 + **Droste, N.** (2017) Protected Areas and the Environmental Kuznet Curve – evidence from global panel data. *Job Market Paper*
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - the evolution and linkages of topics in ecosystem service research. In Preparation for Submission to Ecosystem Services.
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - the evolution and linkages of topics in ecosystem service research. *In Preparation for Submission to Ecosystem Services*.
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. In preparation for submission to Public Choice.
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
 
 + **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing.
 
