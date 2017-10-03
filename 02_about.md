@@ -14,8 +14,8 @@ The theoretical foundation for these analyses is the principle of fiscal equival
 Empirically, I employ micro-econometric techniques such as:
 
   - panel data analysis for a non-simultaneous self-selection into treatment of implementing ecological fiscal transfers in Brazil;
-  - Bayesian structural time series analysis, simulating a counterfactual time series for fiscal transfers policy changes in Portugal; or
-  - decision trees and random forest models for obtaining characteristics of potential beneficiaries of a EU wide ecological allocative mechanism of EU funds.
+  - Bayesian structural time series analysis, simulating a counterfactual time series for fiscal transfer policy changes in Portugal; or
+  - regression trees and random forest models for obtaining characteristics of potential beneficiaries of a EU wide ecological allocative mechanism of EU funds.
 
 For current versions of the respective papers see <a href="http://nils.droste.io/01_publications/">publications</a>. Generally, I am interested in how econometric methods can be used in order to assess effects of both existing and proposed policy changes.
 
