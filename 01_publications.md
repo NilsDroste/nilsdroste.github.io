@@ -28,11 +28,11 @@ title: Publications
 
 + **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
-+ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* *135*: 426–434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
++ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426–434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
 
 + Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., **Droste, N.**, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. *Journal of Cleaner Production* 139: 361–371. doi: [10.1016/j.jclepro.2016.08.024](http://dx.doi.org/10.1016/j.jclepro.2016.08.024)
 
-+ Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* *139*: 666-676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
++ Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* 139: 666-676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
 
 <a href="#top">Back to top</a>
 
@@ -58,9 +58,9 @@ title: Publications
 
 ## Submissions
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Submitted to Environmental and Resource Economics*
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revisions in Ecological Economics*
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Submitted to Ecological Economics*
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Submitted to Environmental and Resource Economics*
 
 <a href="#top">Back to top</a>
 
@@ -70,11 +70,11 @@ title: Publications
 
 + **Droste, N.** (2017) Protected Areas and the Environmental Kuznet Curve – evidence from global panel data. *Job Market Paper*
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - outlining the evolution of topics in ecosystem service research. *In Preparation for Submission to Ecosystem Services*.
++ **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*
+
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - outlining the evolution of topics in ecosystem service research. *In preparation for submission to Ecosystem Services*.
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
-
-+ **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing.
 
 + D’Amato, D., **Droste, N.**, Winkler, K.J. (2017) Measuring Q - researchers’ shared views on Circular, Green and Bioeconomy.
 
