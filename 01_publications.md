@@ -68,7 +68,7 @@ title: Publications
 
 ## Work in progress
 
-+ **Droste, N.** (2017) Protected Areas and the Environmental Kuznet Curve – evidence from global panel data. *Job Market Paper*
++ **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve – evidence from global panel data. *Job Market Paper*
 
 + **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*
 
