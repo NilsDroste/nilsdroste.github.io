@@ -60,7 +60,7 @@ title: Publications
 
 + **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Submitted to Environmental and Resource Economics*
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Major Revision in Environmental and Resource Economics*
 
 <a href="#top">Back to top</a>
 
@@ -68,7 +68,7 @@ title: Publications
 
 ## Work in progress
 
-+ **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve – evidence from global panel data. *Job Market Paper*
++ **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis. *Job Market Paper*
 
 + **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*
 
