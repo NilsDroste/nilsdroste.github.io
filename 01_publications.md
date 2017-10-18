@@ -28,11 +28,11 @@ title: Publications
 
 + **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231--248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
-+ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426--434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
-
 + Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., **Droste, N.**, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. *Journal of Cleaner Production* 139: 361--371. doi: [10.1016/j.jclepro.2016.08.024](http://dx.doi.org/10.1016/j.jclepro.2016.08.024)
 
 + Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* 139: 666--676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
+
++ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426--434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
 
 <a href="#top">Back to top</a>
 
