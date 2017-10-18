@@ -16,23 +16,23 @@ title: Publications
 
 ## Journal Articles
 
-+ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil - a microeconometric panel data approach. *Environmental Policy and Governance* 27: 378–393. doi: [10.1002/eet.1760](http://dx.doi.org/10.1002/eet.1760)
++ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil - a microeconometric panel data approach. *Environmental Policy and Governance* 27: 378--393. doi: [10.1002/eet.1760](http://dx.doi.org/10.1002/eet.1760)
 
-+ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governance*. forthcoming. doi: [10.1002/eet.1774](http://dx.doi.org/10.1002/eet.1774)
++ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499 . doi: [10.1002/eet.1774](http://dx.doi.org/10.1002/eet.1774)
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://dx.doi.org/10.1007/s10640-017-0146-3)
 
-+ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017) Green, Circular, Bio economy: a comparative analysis of sustainability concepts. *Journal of Cleaner Production* 168: 716-734. doi: [10.1016/j.jclepro.2017.09.053](http://dx.doi.org/10.1016/j.jclepro.2017.09.053)
++ D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017) Green, Circular, Bio economy: a comparative analysis of sustainability concepts. *Journal of Cleaner Production* 168: 716--734. doi: [10.1016/j.jclepro.2017.09.053](http://dx.doi.org/10.1016/j.jclepro.2017.09.053)
 
-+ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26: 413–435. doi: [10.3197/096327117X14976900137331](http://dx.doi.org/10.3197/096327117X14976900137331); [pre-print](http://nils.droste.io/research/articles/D'Amatoetal2017.pdf)
++ D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017) Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26: 413--435. doi: [10.3197/096327117X14976900137331](http://dx.doi.org/10.3197/096327117X14976900137331); [pre-print](http://nils.droste.io/research/articles/D'Amatoetal2017.pdf)
 
-+ **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231-248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
++ **Droste, N.**, Meya, J. N. (2017): Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231--248. doi: [10.1080/09640568.2016.1151405](http://dx.doi.org/10.1080/09640568.2016.1151405)
 
-+ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426–434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
++ **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016) Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426--434. doi: [10.1016/j.jclepro.2016.06.123](http://dx.doi.org/10.1016/j.jclepro.2016.06.123)
 
-+ Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., **Droste, N.**, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. *Journal of Cleaner Production* 139: 361–371. doi: [10.1016/j.jclepro.2016.08.024](http://dx.doi.org/10.1016/j.jclepro.2016.08.024)
++ Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., **Droste, N.**, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. *Journal of Cleaner Production* 139: 361--371. doi: [10.1016/j.jclepro.2016.08.024](http://dx.doi.org/10.1016/j.jclepro.2016.08.024)
 
-+ Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* 139: 666-676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
++ Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* 139: 666--676. doi: [10.1016/j.jclepro.2016.08.071](http://dx.doi.org/10.1016/j.jclepro.2016.08.071)
 
 <a href="#top">Back to top</a>
 
