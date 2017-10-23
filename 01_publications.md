@@ -58,9 +58,9 @@ title: Publications
 
 ## Submissions
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*. [Original Working Paper](https://www.ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Major Revision in Environmental and Resource Economics*
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Major Revision in Environmental and Resource Economics*. [Original Working Paper](https://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 <a href="#top">Back to top</a>
 
@@ -72,7 +72,7 @@ title: Publications
 
 + **Droste, N.**, Farley, F., Ring, I., May, P.H., Ricketts, T. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - outlining the evolution of topics in ecosystem service research. *In preparation for submission to Ecosystem Services*.
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - outlining the evolution of topics in ecosystem service research. *In preparation for submission to Ecosystem Services*. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_10.pdf)
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
 
