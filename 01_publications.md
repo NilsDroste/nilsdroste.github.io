@@ -73,7 +73,7 @@ title: Publications
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle - outlining the evolution of topics in ecosystem service research. *In preparation for submission to Ecosystem Services*. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_10.pdf)
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
-+ 
+
 + **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.
 
 + D’Amato, D., **Droste, N.**, Winkler, K.J. (2017) Measuring Q - researchers’ shared views on Circular, Green and Bioeconomy.
