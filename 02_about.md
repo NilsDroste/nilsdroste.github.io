@@ -4,8 +4,10 @@ title: About
 ---
 
 <p class="message">
-  I am a PhD student interested in applied econometric research on public finance institutions for conservation and participatory governance mechanisms for sustainable development and public good provision.
+  I will be on the 2018 job market!
 </p>
+
+I am a PhD candidate interested in applied econometric research on public finance institutions for conservation and participatory governance mechanisms for sustainable development and public good provision.
 
 For my thesis at the Helmholtz Centre for Environmental Research -- UFZ, I apply econometric analyses to infer effects of ecological fiscal transfers on protected area development in Brazil and Portugal. From these empirical studies I am developing policy advice, e.g. for an ecological public finance design of EU funds.
 
