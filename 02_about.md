@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  I will be on the 2018 job market!
+  I will be on the 2018 job market! [Here]((http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)) is my dissertation crown-jewel (job market) paper. It's a policy design study for a global biodiversity financing mechanism.
 </p>
 
 I am a PhD candidate interested in applied econometric research on public finance institutions for conservation and participatory governance mechanisms for sustainable development and public good provision.
