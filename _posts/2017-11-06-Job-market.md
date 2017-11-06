@@ -19,7 +19,7 @@ In case you are rather interested in a single job-market paper, [here](http://ni
 Below, you find kind of a graphical abstract. Take it with an imaginary teaser: suppose that some portion of fiscal transfers is dedicated to the existence of protected areas.
 
 ![Overview of fiscal transfers in multilevel governments]({{ site.url }}/pics/FiscalTransfers.jpg?raw=true)
-<p style="text-align: right;"><sub><sup> Overview of fiscal transfers in multilevel governments. Source: Droste et al. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. p. 332. </sup></sub></p>
+<p style="text-align: right;"><sub><sup> Overview of fiscal transfers in multilevel governments. Source: Droste, Schröter-Schlaack, Hansjürgens, Zimmermann (2017), p. 332. </sup></sub></p>
 
 *Does that increase the designation of protected areas?* Check out my dissertation.
 
