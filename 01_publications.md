@@ -58,9 +58,9 @@ title: Publications
 
 ## Submissions
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*. [Original Working Paper](https://www.ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*. [original working paper](https://www.ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Major Revision in Environmental and Resource Economics*. [Original Working Paper](https://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in ecological fiscal transfers – the case of Portugal. *Major Revision in Environmental and Resource Economics*. [original working paper](https://www.ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 <a href="#top">Back to top</a>
 
