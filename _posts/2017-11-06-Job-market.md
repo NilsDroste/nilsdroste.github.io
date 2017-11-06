@@ -8,7 +8,7 @@ title: I am on the Job Market
 
 --
 
-I am about to submit my thesis and will be available for the job market 2018.
+I am available for the job market 2018.
 
 In case you are interested in the composition of my work on evidence-based policy advice regarding Ecological Fiscal Transfers, [here](http://nils.droste.io/research/thesis/Droste2017_Incentives in Ecological Fiscal Transfers.pdf) is the my dissertation to be submitted in December.
 
