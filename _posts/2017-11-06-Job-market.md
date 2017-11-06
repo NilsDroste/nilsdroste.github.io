@@ -21,4 +21,4 @@ Below, you find kind of a graphical abstract. Take it with an imaginary teaser: 
 
 *Does that increase the designation of protected areas?* Check out my [dissertation](http://nils.droste.io/research/thesis/Droste2017_Incentives in Ecological Fiscal Transfers.pdf).
 
-Let me know if you have any questions, requests, or offers ;).
+[Let me know](mailto:nils@droste.io) if you have any questions, requests, or offers ;).
