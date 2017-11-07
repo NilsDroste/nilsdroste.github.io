@@ -12,7 +12,7 @@ In case you are interested in the composition of my work on evidence-based polic
 
 In case you are rather interested in a single job-market paper, [here](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf) is the crown jewel paper of my dissertation. It's a policy design study for a global biodiversity financing mechanism.
 
-[Here](http://nils.droste.io/research/CV/CV2017.pdf) is my CV for download.
+[Here](http://nils.droste.io/research/CV/CV2017ND.pdf) is my CV for download.
 
 Below, you find kind of a graphical abstract. Take it with an imaginary teaser: suppose that some portion of fiscal transfers is dedicated to the existence of protected areas.
 
