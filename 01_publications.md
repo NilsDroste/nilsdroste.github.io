@@ -18,9 +18,9 @@ title: Publications
 
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
-+ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations – a policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](http://doi.org/10.1002/eet.1774)
++ **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](http://doi.org/10.1002/eet.1774)
 
-+ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil - a microeconometric panel data approach. *Environmental Policy and Governance* 27(4): 378--393. doi: [10.1002/eet.1760](http://doi.org/10.1002/eet.1760)
++ **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil: A microeconometric panel data approach. *Environmental Policy and Governance* 27(4): 378--393. doi: [10.1002/eet.1760](http://doi.org/10.1002/eet.1760)
 
 + **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://doi.org/10.1007/s10640-017-0146-3)
 
