@@ -16,7 +16,7 @@ title: Publications
 
 ## Journal Articles
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0195-7](http://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](http://doi.org/10.1002/eet.1774)
 
