@@ -2,11 +2,6 @@
 layout: post
 title: I am on the 2018 Job Market
 ---
-<div class="message">
-  I will be at the ASSA meeting in Philadelphia.
-</div>
-
---
 
 In case you are interested in the composition of my work on evidence-based policy advice regarding Ecological Fiscal Transfers, [here](http://nils.droste.io/research/thesis/Droste2017_Incentives in Ecological Fiscal Transfers.pdf) is my dissertation (to be submitted in December).
 
