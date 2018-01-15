@@ -616,7 +616,7 @@ angular.module('app', ['ui.router', 'ui.bootstrap'])
             initialCell: '&swappableStatementCell',
             swappable: '@'
         },
-        templateUrl: 'templates/_swappable_statement.html',
+        templateUrl: 'templates/swappable_statement.html',
         link: function(scope, element, attrs) {
             // save initial statement in case the binding changes through dom manipulation
             scope.initialStatement = scope.statement();
