@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+//
+// This is the place for your statements. The maximum
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special
+// characters, make sure, that you save this XML-file
+// as an UTF-8-document. White-space inbetween the
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node
+// consisting out of an opening and a closing tag. The
+// statement itself goes between this two tags.
+// The unique statement id is saved as an
+// attribute called 'id'. We have three exmaple
+// statements and we need therefore three statement-
+// nodes and one parent-node.
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+//
+// ===================================================
+//
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">
+    Maximise the efficient utilization of energy and material
+  </statement>
+  <statement id="2">
+    Reuse, recycle and upcycle of materials and energy
+  </statement>
+  <statement id="3">
+    Minimize harmful emissions and waste to the environment
+  </statement>
+  <statement id="4">
+    Maximise synergies between a range of ecosystem services
+  </statement>
+  <statement id="5">
+    Protect biodiversity and ecosystem services
+  </statement>
+  <statement id="6">
+    Promote ecosystem resilience at landscape level
+  </statement>
+  <statement id="7">
+    Maximise the use of renewable resources
+  </statement>
+  <statement id="8">
+    Apply biotechnology and bioengineering solutions
+  </statement>
+  <statement id="9">
+    Promote productivity of agricultural, forestry and fisheries systems
+  </statement>
+  <statement id="10">
+    Adapt circular material flow strategies which also meet social needs (e.g. water, waste reduction, recycling)
+  </statement>
+  <statement id="11">
+    Save energy and material in user consumption
+  </statement>
+  <statement id="12">
+    Develop circular industrial clusters that promote regional development, employment, and capacity building
+  </statement>
+  <statement id="13">
+    Redistribute ecosystem services management costs and benefits fairly
+  </statement>
+  <statement id="14">
+    Implement participatory ecosystem management approaches
+  </statement>
+  <statement id="15">
+    Develop ecotourism and other nature-based business that promote regional development, employment, and capacity building
+  </statement>
+  <statement id="16">
+    Enhance primary production through adequate incentives to producers
+  </statement>
+  <statement id="17">
+    Support consumer and user-oriented bio-based products and services
+  </statement>
+  <statement id="18">
+    Develop bio-based and bio-technology business that promote regional development, employment, capacity building
+  </statement>
+  <statement id="19">
+    Create new business opportunities for recycled and more efficient products and services
+  </statement>
+  <statement id="20">
+    Improve and innovate along the value chain through efficiency, recycling, reusing, upcycling
+  </statement>
+  <statement id="21">
+    Engage consumers and investors in cleaner production
+  </statement>
+  <statement id="22">
+    Create new business opportunities from ecosystem services-based markets
+  </statement>
+  <statement id="23">
+    Implement an integrated approach to ecosystem management along the value chain
+  </statement>
+  <statement id="24">
+    Engage consumers and investors through nature based solutions
+  </statement>
+  <statement id="25">
+    Create new business opportunities from bio-based products and services
+  </statement>
+  <statement id="26">
+    Advance and innovate along the value chain through biotechnology and/or agro-ecological methods
+  </statement>
+  <statement id="27">
+    Engage consumers and investors by adopting bio-based solutions
+  </statement>
+  <statement id="28">
+    Expand the economy’s productive potential
+  </statement>
+  <statement id="29">
+    Foster economic growth to facilitate satisfaction of (basic) needs
+  </statement>
+  <statement id="30">
+    Decouple economic growth and material consumption
+  </statement>
+  <statement id="31">
+    Stabilise the economy's productive potential
+  </statement>
+  <statement id="32">
+    Stabilise economic growth to safe-guard ecological thresholds while redistributing access
+  </statement>
+  <statement id="33">
+    Decouple economic growth and material consumption while taking rebound effects into account
+  </statement>
+  <statement id="34">
+    Limit and transform the economy's productive potential
+  </statement>
+  <statement id="35">
+    Downscale economic growth while reducing inequalities and exploitation
+  </statement>
+  <statement id="36">
+    Dematerialize society and economy through emphasizing the role of sufficiency, happiness, and equity
+  </statement>
+
+</statements>

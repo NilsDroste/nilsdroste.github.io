@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+//
+// In order to translate HtmlQ or to customize the texts,
+// just change the text between the opening and the closing
+// tag. The attribute 'id' is the name of the variable
+// and must remain unchanged.
+//
+// You can use HTML-tags, but you have to braces instead
+// of the normal angle brackets, otherwise the import will fail.
+// Example: {b}bold{/b}
+//
+// If your are using German Umlauts and other special
+// characters, make sure, that you save this XML-file
+// as an UTF-8-document. White-space inbetween the
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and
+// line breaks, is preserved.
+//
+// ===================================================
+//
+-->
+
+<language version="1.0" htmlParse="true">
+
+  <!-- misc -->
+  <item id="btnContinue">Continue...</item>
+  <item id="btnclose">Close</item>
+  <item id="btnHelp">Help me!</item>
+  <item id="btnAgreement">agree</item>
+  <item id="btnNeutral">indifferent</item>
+  <item id="btnDisagreement">disagree</item>
+  <item id="btnTransfer">Submit data</item>
+  <item id="btnMail">Send via email</item>
+  <item id="btnPrint">Print data</item>
+  <item id="btnExit">Exit</item>
+  <item id="selectItem">Please select...</item>
+
+  <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
+  <item id="leaveSiteWarning">Your answers will be lost.</item>
+
+  <!-- HtmlQ only: In-App Back Button -->
+  <item id="backButton">Back</item>
+  <item id="fillInRequiredFields">Please fill in all required fields.</item>
+
+  <!-- errors -->
+  <item id="errorHead">Error!</item>
+  <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+
+  <!-- welcome screen (leave blank to skip screen) -->
+  <item id="welcomeHead">Welcome!</item>
+  <item id="welcomeText">Please note: This is just a demo and no data will be stored.</item>
+
+  <!-- user login, only displayed if access is restricted (see config-file) -->
+  <!-- <item id="loginHead">User code</item>
+  <item id="loginText">Please enter your user code. Please note, that in this demo any user code will be accepted.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="loginFormHeader">User code</item>
+  <item id="loginNoInput">Please insert your user code.</item>
+  <item id="loginInvalidInput">User code invalid</item>
+  <item id="loginNoConnection">Connection to server failed. Please try again.</item> -->
+
+  <!-- introduction (leave blank to skip popup) -->
+  <item id="introHead">Introduction</item>
+  <item id="introText">This study is about a comparative assessment of Circular (CE), Green (GE), and Bio-Economy (BE) strategies. We are interested in your attitude towards their potential to facilitate sustainability transformations.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+
+  <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
+  <item id="step1Head">Step 1 of 5</item>
+  <item id="step1Text">We propose 36 statements about potential strategic activities regarding sustainability transformations. {br}{br} Split them up into three piles based on the your level of agreement on whether the {strong}activities should be pursued for a successful sustainability transformation{/strong}.{br} You can either disagree, be indifferent, or agree.{br}{br}Drag the cards into one of the three piles; alternatively press 1, 2 or 3 (disagree, indifferent, agree) on your keyboard. You can make final changes later on.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
+
+  <!-- step2: sorting (leave blank to skip popup) -->
+  <item id="step2Head">Step 2 of 5</item>
+  <item id="step2Text">Take the cards from the "AGREEMENT"-pile and drag them into the right side of the score sheet according to your level of agreement.{br}{br}Then place the cards from the "DISAGREEMENT"-pile into left hand side according to the degree of your disagreement.{br}{br}Finally, place the cards from the "INDIFFERENCE"-pile in the middle part of of the score sheet.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
+
+  <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
+  <item id="step3Head">Step 3 of 5</item>
+  <item id="step3Text">Now you have placed all the 36 statement cards on the score sheet. Check distribution once more and shift cards until you are satisfied.</item>
+
+  <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
+  <item id="step4Head">Step 4 of 5</item>
+  <item id="step4Text">Please explain why you agree most or disagree most with the following statements on sustainability transformation activities. These are the statements which you have placed at the extreme ends of the score sheet.</item>
+
+  <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
+  <item id="step5Head">Step 5 of 5</item>
+  <item id="step5Text">Finally, please answer the following information regarding your background.</item>
+
+  <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
+  <item id="transferHead">Submit Data</item>
+  <item id="transferText">You've finished the survey. Please submit your data now.</item>
+  <item id="transferFailed">Data submission failed. Please try again or send your results via email.</item>
+  <item id="transferOk">Thank you for your answers.</item>
+
+  <!-- send data via mail, only displayed if submitUrl is blank (see config-file) -->
+  <item id="mailHead">Submit Data</item>
+  <item id="mailText">You can also submit your data via email. You'll need an email client Outlook or Thunderbird.</item>
+
+  <!-- e-mail-body -->
+  <item id="mailBody">Thank you for participating in our survey. Please do not modify the following text:</item>
+
+  <!-- print out -->
+  <!-- <item id="printoutText">Somebody{br}Some street 100{br}Some city{br}{br}Please send this printout to address mentioned above. Thanks for you help.</item> -->
+
+</language>
