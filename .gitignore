@@ -41,5 +41,6 @@ validation-report.json
 node_modules
 bower_components
 
-#Not ignore the swappable statements in QMethod research
+# Not ignore the swappable statements in QMethod research
 !_swappable_statement.html
+!_test.html
