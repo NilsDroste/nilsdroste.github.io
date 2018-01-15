@@ -40,3 +40,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+#Not ignore the swappable statements in QMethod research
+!_swappable_statement.html
