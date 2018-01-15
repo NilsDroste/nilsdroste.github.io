@@ -75,7 +75,7 @@
   <!-- URL for data transmission via POST/GET (leave blank if not required) -->
   <item id="submitUrl">exe.php?do=save</item>
   <!-- request mode (post|get) -->
-  <item id="submitUrlMethod">post</item<name />
+  <item id="submitUrlMethod">post</item>
 
   <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
   <item id="submitMail">dalia.damato@helsinki.fi</item>
