@@ -74,7 +74,7 @@
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all 36 statement cards on the score sheet. You can check the distribution once more and shift cards freely until you are satisfied.</item>
+  <item id="step3Text">Now you have placed all 36 statement cards on the score sheet. You can check the distribution once more and shift cards freely until you are satisfied.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
