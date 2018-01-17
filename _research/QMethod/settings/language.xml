@@ -70,7 +70,7 @@
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "MOST AGREEMENT"-pile and drag them into the right side of the score sheet according to your level of agreement.{br}{br}Then place the cards from the "LEAST AGREEMENT"-pile into left hand side according to the degree of your disagreement.{br}{br}Finally, place the cards from the "NEUTRAL"-pile in the middle part of of the score sheet.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
+  <item id="step2Text">Take the cards from the "MOST AGREEMENT"-pile and drag them into the right side of the score sheet according to the level of your agreement.{br}{br}Then place the cards from the "LEAST AGREEMENT"-pile into left hand side according to the level of your disagreement.{br}{br}Finally, place the cards from the "NEUTRAL"-pile in the middle part of of the score sheet.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
