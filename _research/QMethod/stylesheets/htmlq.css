@@ -142,7 +142,7 @@ p.card-counter {
 }
 
 .sortable.agree .draggable {
-    background-color: #ededed;
+    background-color: #eeeeee;
 }
 
 .sortable.neutral .draggable {
@@ -154,7 +154,7 @@ p.card-counter {
 }
 
 div.agree, li.agree {
-    background-color: #ededed;
+    background-color: #eeeeee;
 }
 
 div.neutral, li.neutral {

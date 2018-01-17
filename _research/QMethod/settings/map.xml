@@ -46,8 +46,8 @@
   <column id="-1" colour="d3d3d3">5</column>
   <column id=" 0" colour="d3d3d3">6</column>
   <column id="+1" colour="d3d3d3">5</column>
-  <column id="+2" colour="ededed">4</column>
-  <column id="+3" colour="ededed">3</column>
-  <column id="+4" colour="ededed">2</column>
-  <column id="+5" colour="ededed">1</column>
+  <column id="+2" colour="eeeeee">4</column>
+  <column id="+3" colour="eeeeee">3</column>
+  <column id="+4" colour="eeeeee">2</column>
+  <column id="+5" colour="eeeeee">1</column>
 </map>
