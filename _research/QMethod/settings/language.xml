@@ -78,7 +78,7 @@
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
-  <item id="step4Text">Please explain why you agree most or least agree with the following statements on sustainability transformation activities. These are the statements which you have placed at the extreme ends of the score sheet.</item>
+  <item id="step4Text">Please explain why you most or least agree with the following statements on sustainability transformation activities. These are the statements which you have placed at the extreme ends of the score sheet.</item>
 
   <!-- step5: additional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
   <item id="step5Head">Step 5 of 5</item>
