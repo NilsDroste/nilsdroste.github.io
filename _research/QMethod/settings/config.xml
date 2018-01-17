@@ -66,10 +66,13 @@
     <label>What is your current position / career stage?</label>
   <input type="textarea" required="false"></input>
 
+    <label>In which country do you mainly work?</label>
+  <input type="textarea" required="false"></input> 
+
     <label>What kind of approach do you mainly work with in your job?</label>
 	<input type="checkbox" required="false">Circular Economy;Green Economy;Bio-Economy</input>
 
-    <label>What kind of strategy do you think needs prioritizing in sustainability transformation?</label>
+    <label>What kind of strategy do you think needs prioritizing for sustainability transformations?</label>
 	<input type="select" required="false">Circular Economy;Green Economy;Bio-Economy</input>
 
     <label>Comments</label>
