@@ -29,7 +29,7 @@
   <item id="btnclose">Close</item>
   <item id="btnHelp">Help me!</item>
   <item id="btnAgreement">agree</item>
-  <item id="btnNeutral">indifferent</item>
+  <item id="btnNeutral">neutral</item>
   <item id="btnDisagreement">disagree</item>
   <item id="btnTransfer">Submit data</item>
   <item id="btnMail">Send via email</item>
@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Please note: This is {strong}STILL{/strong} just a demo and the data will only be stored for testing purposes.</item>
+  <item id="welcomeText">This study is a comparative assessment of Circular (CE), Green (GE), and Bio-Economy (BE) strategies.{br}{br}Please note: This is {strong}STILL{/strong} just a demo and the data will only be stored for testing purposes.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <!-- <item id="loginHead">User code</item>
@@ -62,19 +62,19 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about a comparative assessment of Circular (CE), Green (GE), and Bio-Economy (BE) strategies. We are interested in your attitude towards their potential to facilitate sustainability transformations.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">We are interested in your attitude towards the potential of Circular (CE), Green (GE), and Bio-Economy (BE) strategies to facilitate sustainability transformations.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
-  <item id="step1Text">We propose 36 statements about potential strategic activities regarding sustainability transformations. {br}{br} Split them up into three piles based on the level of your agreement on whether the {strong}activities should be pursued for a successful sustainability transformation{/strong}.{br} You can either disagree, be indifferent, or agree.{br}{br}Drag the cards into one of the three piles; alternatively press 1, 2 or 3 (disagree, indifferent, agree) on your keyboard. You can make final changes later on.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
+  <item id="step1Text">We will propose 36 statements about potential strategic activities regarding sustainability transformations. {br}{br} Split them up into three piles based on the level of your agreement regarding which {strong}activities should (not) be pursued for a successful sustainability transformation{/strong}.{br} You can either disagree, be neutral, or agree.{br}{br}Drag the cards into one of the three piles; alternatively press 1, 2 or 3 (disagree, neutral, agree) on your keyboard. You can make final changes later on.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "AGREEMENT"-pile and drag them into the right side of the score sheet according to your level of agreement.{br}{br}Then place the cards from the "DISAGREEMENT"-pile into left hand side according to the degree of your disagreement.{br}{br}Finally, place the cards from the "INDIFFERENCE"-pile in the middle part of of the score sheet.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
+  <item id="step2Text">Take the cards from the "AGREEMENT"-pile and drag them into the right side of the score sheet according to your level of agreement.{br}{br}Then place the cards from the "DISAGREEMENT"-pile into left hand side according to the degree of your disagreement.{br}{br}Finally, place the cards from the "NEUTRAL"-pile in the middle part of of the score sheet.{br}{br}To read the full statement after having placed it in the score sheet, hover the mouse pointer over the statement.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all the 36 statement cards on the score sheet. Check distribution once more and shift cards until you are satisfied.</item>
+  <item id="step3Text">Now you have placed all 36 statement cards on the score sheet. You can check the distribution once more and shift cards until you are satisfied.</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>

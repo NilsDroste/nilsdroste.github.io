@@ -60,10 +60,16 @@
     <!-- <label>Please answer the following questions.</label>
 	<input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input> -->
 
+    <label>What is your main discipline / research field / area of work?</label>
+  <input type="textarea" required="false"></input>
+
+    <label>What is your current position / career stage?</label>
+  <input type="textarea" required="false"></input>
+
     <label>What kind of approach do you mainly work with in your job?</label>
 	<input type="checkbox" required="false">Circular Economy;Green Economy;Bio-Economy</input>
 
-    <label>What kind of approach do you prefer?</label>
+    <label>What kind of strategy do you think needs prioritizing in sustainability transformation?</label>
 	<input type="select" required="false">Circular Economy;Green Economy;Bio-Economy</input>
 
     <label>Comments</label>
