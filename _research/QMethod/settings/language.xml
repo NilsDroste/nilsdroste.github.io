@@ -66,7 +66,7 @@
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
-  <item id="step1Text">We will propose 36 statements about potential strategic activities regarding sustainability transformations. {br}{br} Split them up into three piles based on the level of your agreement regarding {strong}which activities should be pursued for a successful sustainability transformation{/strong}.{br}{br}Drag the cards into one of the three piles: least agree, neutral, most agree. {br}Alternatively press 1, 2 or 3 (least agree, neutral, most agree) on your keyboard. You can make final changes later on.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
+  <item id="step1Text">We will propose 36 statements about potential strategic activities regarding sustainability transformations. {br}{br} Split them up into three piles based on the level of your agreement regarding which {strong}activities should be pursued for a successful sustainability transformation{/strong}.{br}{br}Drag the cards into one of the three piles: least agree, neutral, most agree. {br}Alternatively press 1, 2 or 3 (least agree, neutral, most agree) on your keyboard. You can make final changes later on.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom right corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
