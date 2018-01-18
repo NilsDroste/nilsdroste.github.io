@@ -15,7 +15,7 @@
                     <input ng-model="element.value" maxlength="{{ element.maxLength }}">
                 </div>
                 <div ng-if="element.inputType == 'textarea'" class="question-input">
-                    <textarea rows="5" ng-model="element.value" maxlength="{{ element.maxLength }}"></textarea>
+                    <textarea rows="3" ng-model="element.value" maxlength="{{ element.maxLength }}"></textarea>
                 </div>
                 <div ng-if="element.inputType == 'radio'">
                     <div ng-repeat="option in element.options" class="question-input"><input type="radio" id="{{ $parent.$index }}_{{ $index }}" name="{{ $parent.$index }}" value="{{ $index }}" ng-model="element.value"> <label for="{{ $parent.$index }}_{{ $index }}">{{option}}</label><br></div>
