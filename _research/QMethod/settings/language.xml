@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">This study is a comparative assessment of Circular (CE), Green (GE), and Bio-Economy (BE) strategies by researchers fom the University of Helsinki, the Helmholtz Centre for Environmental research, and Oldenburg University.{br}{br}Please note: This is {strong}STILL{/strong} just a demo and the data will only be stored for testing purposes.</item>
+  <item id="welcomeText">This study is a comparative assessment of Circular (CE), Green (GE), and Bio-Economy (BE) strategies by researchers fom the University of Helsinki, the Helmholtz Centre for Environmental Research, and Oldenburg University.{br}{br}Please note: This is {strong}STILL{/strong} just a demo and the data will only be stored for testing purposes.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <!-- <item id="loginHead">User code</item>
