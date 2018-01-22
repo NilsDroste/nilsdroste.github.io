@@ -16,13 +16,15 @@ title: Publications
 
 ## Journal Articles
 
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Forthcoming in Ecological Economics*. [original working paper](http://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
+
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0195-7](http://doi.org/10.1007/s10640-017-0195-7); [original working paper](http://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](http://doi.org/10.1002/eet.1774)
 
 + **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil: A microeconometric panel data approach. *Environmental Policy and Governance* 27(4): 378--393. doi: [10.1002/eet.1760](http://doi.org/10.1002/eet.1760)
 
-+ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics*. forthcoming. doi: [10.1007/s10640-017-0146-3](http://doi.org/10.1007/s10640-017-0146-3)
++ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0146-3](http://doi.org/10.1007/s10640-017-0146-3)
 
 + D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017) Green, Circular, Bio economy: a comparative analysis of sustainability concepts. *Journal of Cleaner Production* 168: 716--734. doi: [10.1016/j.jclepro.2017.09.053](http://doi.org/10.1016/j.jclepro.2017.09.053)
 
@@ -60,7 +62,7 @@ title: Publications
 
 ## Submissions
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2017) Ecological Fiscal Transfers in Europe – evidence based design options of a transnational scheme. *Major Revision in Ecological Economics*. [original working paper](http://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) The evolution of topics in ecosystem service research. *Submitted to Conservation Biology*. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 <a href="#top">Back to top</a>
 
@@ -69,8 +71,6 @@ title: Publications
 ## Work in progress
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*. [draft](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
-
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) The evolution of topics in ecosystem service research. *In preparation for submission to Conservation Biology*. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
 
