@@ -7,7 +7,7 @@
             <div class="row comment" ng-repeat="entry in agreeColumn">
                 <div class="col-xs-2">
                     <div class="statement-card" ng-class="{textright: textAlignRight}">
-                        <b>({{ entry.statement._id }})</b> <span ng-bind-html="entry.statement.__text"></span>
+                        <span ng-bind-html="entry.statement.__text"></span>
                     </div>
                 </div>
                 <div class="col-xs-10">
@@ -25,7 +25,7 @@
             <div class="row comment" ng-repeat="entry in disagreeColumn">
                 <div class="col-xs-2">
                     <div class="statement-card" ng-class="{textright: textAlignRight}">
-                        <b>({{ entry.statement._id }})</b> <span ng-bind-html="entry.statement.__text"></span>
+                        <span ng-bind-html="entry.statement.__text"></span>
                     </div>
                 </div>
                 <div class="col-xs-10">
