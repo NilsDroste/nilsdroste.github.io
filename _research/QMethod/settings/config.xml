@@ -70,7 +70,7 @@
   <input type="textarea" required="false"></input>
 
     <label>What kind of approach do you mainly work with in your job?</label>
-	<input type="checkbox" required="false">Circular Economy;Green Economy;Bio-Economy</input>
+	<input type="checkbox" required="false">Circular Economy;Green Economy;Bio-Economy;none</input>
 
     <label>What kind of strategy do you think needs prioritizing for sustainability transformations?</label>
 	<input type="select" required="false">Circular Economy;Green Economy;Bio-Economy</input>
