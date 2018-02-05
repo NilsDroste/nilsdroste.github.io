@@ -74,6 +74,9 @@
 
     <label>What kind of strategy do you think needs prioritizing for sustainability transformations?</label>
 	<input type="select" required="false">Circular Economy;Green Economy;Bio-Economy</input>
+    
+    <label>Could you recommend a colleague to fill in the questionnaire (name, email address, and field of expertise)?</label>
+<input type="textarea" required="false"></input>
 
     <label>Comments</label>
 	<input type="textarea" required="false"></input>
