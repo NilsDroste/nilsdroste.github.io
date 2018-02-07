@@ -58,19 +58,21 @@ title: Publications
 
 <a href="#top">Back to top</a> -->
 
----
+<!-- ---
 
 ## Submissions
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) The evolution of topics in ecosystem service research. *Submitted to Conservation Biology*. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
++ 
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to top</a> -->
 
 ---
 
 ## Work in progress
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*. [draft](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
+
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) The evolution of topics in ecosystem service research. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
 
