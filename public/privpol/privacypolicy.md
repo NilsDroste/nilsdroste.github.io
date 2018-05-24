@@ -9,7 +9,7 @@ Your privacy matters to me, nevertheless this site uses cookies that store some 
  + google analytics for analyses of user data in terms of time, pages visited, geographical origin, further information below and [here](https://developers.google.com/analytics/resources/concepts/gaConceptsTrackingOverview#trackingCodeExecution).
  + [gravatar](https://en.gravatar.com/support/what-is-gravatar/) (for my profile picture) that unfortunately sets a tracker -- this will be removed in the near future. Further info [here](https://meta.stackexchange.com/questions/44717/is-gravatar-a-privacy-risk)
 
-Data that may be stored includes (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+Data that may be stored includes (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address) -- in an anonymized form, (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
 
 Who's responsible? Me:
 <p class="message">
