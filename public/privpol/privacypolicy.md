@@ -1,3 +1,8 @@
+---
+layout: default
+title:  Privacy Policy
+permalink: /public/privpol/privacypolicy.md
+---
 
 # Privacy Policy
 
@@ -11,9 +16,9 @@ Data that may be stored includes (1) the browser types and versions used, (2) th
 
 Who's responsible? Me:
 <p class="message">
-  Nils Droste
-  Tarmstedter Str. 24
-  D-27404 Badenstedt
-  Phone: +49 4281 988 991
-  Email: nils@droste.io
+  Nils Droste <br>
+  Tarmstedter Str. 24  <br>
+  D-27404 Badenstedt  <br>
+  Phone: +49 4281 988 991  <br>
+  Email: nils@droste.io  <br>
 </p>
