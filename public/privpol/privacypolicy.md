@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Privacy Policy
-permalink: /public/privpol/privacypolicy
+permalink: /public/privpol/privacypolicy.html
 ---
 
 # Privacy Policy
