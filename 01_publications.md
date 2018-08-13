@@ -62,7 +62,7 @@ title: Publications
 
 ## Submissions
 
-+ 
++
 
 <a href="#top">Back to top</a> -->
 
@@ -70,11 +70,11 @@ title: Publications
 
 ## Work in progress
 
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. *In preparation for submission to Nature*. [draft](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. R&R in Plos ONE [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) The evolution of topics in ecosystem service research. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. [draft](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *In preparation for submission to Public Choice*.
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.
 
 + **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.
 
