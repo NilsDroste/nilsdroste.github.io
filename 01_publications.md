@@ -70,7 +70,7 @@ title: Publications
 
 ## Work in progress
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. R&R in Plos ONE [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. R&R in Plos ONE. [draft](http://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. [draft](http://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
 
