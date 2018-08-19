@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am interested in applied econometric research on public finance institutions for conservation and participatory governance mechanisms for sustainable development and public good provision.
+I am interested in applied econometric research on public finance institutions for land use, conservation, and participatory governance mechanisms for sustainable development and public good provision.
 
 For my thesis at the Helmholtz Centre for Environmental Research -- UFZ, I applied econometric analyses to infer effects of ecological fiscal transfers on protected area development in Brazil and Portugal. From these empirical studies I am developing policy advice, e.g. for an ecological public finance design of EU funds.
 
@@ -17,7 +17,7 @@ Empirically, I employ micro-econometric techniques such as:
 
 For current versions of the respective papers see <a href="http://nils.droste.io/01_publications/">publications</a>. Generally, I am interested in how econometric methods can be used in order to assess effects of both existing and proposed policy changes.
 
-<!---I hold a Bachelor's Degree in Political Science (Uni Bremen) and Master in Sustainability Economics (CarQl von Ossietzky University Oldenburg). For my PhD I am at the Martin-Luther University Halle-Wittenberg and the Helmholtz Centre for Environmental Research - UFZ (where I have conducted most of my research). Currently I am with the Faculty of Social Sciences (FLACSO) Ecuador.--->
+<!---I hold a Bachelor's Degree in Political Science (Uni Bremen) and Master in Sustainability Economics (Carl von Ossietzky University Oldenburg). For my PhD I am at the Martin-Luther University Halle-Wittenberg and the Helmholtz Centre for Environmental Research - UFZ (where I have conducted most of my research). Currently I am with the Faculty of Social Sciences (FLACSO) Ecuador.--->
 
 <!-- Currently, I am extending the original topic of my PhD in terms of field work regarding the decentral and participatory organization of public finances and conservation competencies in Ecuador. -->
 
