@@ -13,7 +13,7 @@ title: ALTER-Net Summer School
 <p style="text-align: right;"><sub><sup>Source:
 <a href="https://www.cec.lu.se/lovisa-nilsson">Lovisa Nilsson</a></sup></sub></p>
 
-I am back from a fabulous experience in Peyresq, France, at the [ALTER-Net Summer School](www.alter-net.info/summer-school). It was an intense 10 day summerschool on biodiversity, ecosystem services, and science-policy interfaces in a gorgeous village in Alpes-de-Haute-Provence.
+I am back from a fabulous experience in Peyresq, France, at the [ALTER-Net Summer School](https://www.alter-net.info/summer-school). It was an intense 10 day summerschool on biodiversity, ecosystem services, and science-policy interfaces in a gorgeous village in Alpes-de-Haute-Provence.
 
 Five elements contributed essentially to the extraordinariness of the experience:
 
