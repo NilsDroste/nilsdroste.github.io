@@ -11,8 +11,8 @@ permalink:        pretty
 title:            Nils Droste
 tagline:          'a personal page'
 description:      'researching sustainable public finance'
-url:              http://nils.droste.io
-# urlimg:           http://nils.droste.io/pics/
+url:              https://nils.droste.io
+# urlimg:           https://nils.droste.io/pics/
 baseurl:          ''
 paginate:         5
 
@@ -24,7 +24,7 @@ author:
   #twitter:        NilsDroste
   researchgate:   Nils_Droste
   github:         NilsDroste
-  orcid:          http://orcid.org/0000-0003-4357-9115
+  orcid:          https://orcid.org/0000-0003-4357-9115
   google_scholar: https://scholar.google.de/citations?hl=de&user=oHRPDwcAAAAJ
 
 # Custom vars

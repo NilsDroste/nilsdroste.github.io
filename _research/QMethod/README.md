@@ -1,8 +1,8 @@
 ## HtmlQ
 
-by [aproxima Gesellschaft für Markt- und Sozialforschung Weimar](http://www.aproxima.de/).
+by [aproxima Gesellschaft für Markt- und Sozialforschung Weimar](https://www.aproxima.de/).
 
-Q-sorting tool in HTML5. Backwards compatible with settings files of [FlashQ](http://www.hackert.biz/flashq/home/).
+Q-sorting tool in HTML5. Backwards compatible with settings files of [FlashQ](https://www.hackert.biz/flashq/home/).
 
 ## FAQ
 
@@ -12,8 +12,8 @@ You can find the FAQ here: [https://github.com/aproxima/htmlq/wiki/FAQ](https://
 
 * Responsive layout for iPad and Android tablets
 * Compatible with Internet Explorer 8 and later
-* Compatible with settings files of [FlashQ](http://www.hackert.biz/flashq/home/)
-* Compatible with [FlashQ PHP backend](http://www.hackert.biz/flashq/downloads/)
+* Compatible with settings files of [FlashQ](https://www.hackert.biz/flashq/home/)
+* Compatible with [FlashQ PHP backend](https://www.hackert.biz/flashq/downloads/)
 * Unique participant identifier can be passed via query paramater
 
 ## Getting started
@@ -27,11 +27,11 @@ Once you're ready to start the survey:
 
 5. Host the whole `htmlq` folder online using a web server such as Apache or nginx, or your web hosting company
 6. Point your participants to the URL under which you made it available
-7. If you want, you can add the [FlashQ PHP backend](http://www.hackert.biz/flashq/downloads/) to enable advanced functionality such as email export or CSV export
+7. If you want, you can add the [FlashQ PHP backend](https://www.hackert.biz/flashq/downloads/) to enable advanced functionality such as email export or CSV export
 
 ## Settings
 
-All .XML files in the settings subfolder are compatible with the settings files of FlashQ. A description of the settings files can be found at [http://www.hackert.biz/flashq/faq/]().
+All .XML files in the settings subfolder are compatible with the settings files of FlashQ. A description of the settings files can be found at [https://www.hackert.biz/flashq/faq/]().
 
 ### Additional settings (vs. FlashQ)
 
@@ -75,4 +75,4 @@ Trying out the survey offline by opening `index.html` will only work with some b
 
 ## License
 
-HtmlQ is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+HtmlQ is released under the [MIT License](https://www.opensource.org/licenses/MIT).

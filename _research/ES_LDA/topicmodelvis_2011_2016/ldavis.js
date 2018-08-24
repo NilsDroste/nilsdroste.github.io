@@ -78,7 +78,7 @@ LDAvis = function(to_select, json_file) {
 
     // sort array according to a specified object key name
     // Note that default is decreasing sort, set decreasing = -1 for increasing
-    // adpated from http://stackoverflow.com/questions/16648076/sort-array-on-key-value
+    // adpated from https://stackoverflow.com/questions/16648076/sort-array-on-key-value
     function fancysort(key_name, decreasing) {
         decreasing = (typeof decreasing === "undefined") ? 1 : decreasing;
         return function(a, b) {
@@ -134,8 +134,8 @@ LDAvis = function(to_select, json_file) {
         }
 
         // Create the topic input & lambda slider forms. Inspired from:
-        // http://bl.ocks.org/d3noob/10632804
-        // http://bl.ocks.org/d3noob/10633704
+        // https://bl.ocks.org/d3noob/10632804
+        // https://bl.ocks.org/d3noob/10633704
         init_forms(topicID, lambdaID, visID);
 
         // When the value of lambda changes, update the visualization
@@ -300,7 +300,7 @@ LDAvis = function(to_select, json_file) {
         cx2 = cx + 1.5 * newLarge;
 
         // circle guide inspired from
-        // http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
+        // https://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
         circleGuide = function(rSize, size) {
             d3.select("#leftpanel").append("circle")
                 .attr('class', "circleGuide" + size)
@@ -405,7 +405,7 @@ LDAvis = function(to_select, json_file) {
             })
             .on("click", function(d) {
                 // prevent click event defined on the div container from firing
-                // http://bl.ocks.org/jasondavies/3186840
+                // https://bl.ocks.org/jasondavies/3186840
                 d3.event.stopPropagation();
                 var old_topic = topicID + vis_state.topic;
                 if (vis_state.topic > 0 && old_topic != this.id) {
@@ -483,7 +483,7 @@ LDAvis = function(to_select, json_file) {
 	// footnotes:
         d3.select("#bar-freqs")
             .append("a")
-            .attr("xlink:href", "http://vis.stanford.edu/files/2012-Termite-AVI.pdf")
+            .attr("xlink:href", "https://vis.stanford.edu/files/2012-Termite-AVI.pdf")
             .attr("target", "_blank")
             .append("text")
             .attr("x", 0)
@@ -492,7 +492,7 @@ LDAvis = function(to_select, json_file) {
             .text("1. saliency(term w) = frequency(w) * [sum_t p(t | w) * log(p(t | w)/p(t))] for topics t; see Chuang et. al (2012)");
         d3.select("#bar-freqs")
             .append("a")
-            .attr("xlink:href", "http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf")
+            .attr("xlink:href", "https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf")
             .attr("target", "_blank")
             .append("text")
             .attr("x", 0)
@@ -568,7 +568,7 @@ LDAvis = function(to_select, json_file) {
 	    .attr("font-size", "12px")
 	    .text("(1)");
 
-        // barchart axis adapted from http://bl.ocks.org/mbostock/1166403
+        // barchart axis adapted from https://bl.ocks.org/mbostock/1166403
         var xAxis = d3.svg.axis().scale(x)
             .orient("top")
             .tickSize(-barheight)
@@ -685,7 +685,7 @@ LDAvis = function(to_select, json_file) {
 		.range([7.5, 242.5])  // trimmed by 7.5px on each side to match the input type=range slider:
 		.nice();
 
-            // adapted from http://bl.ocks.org/mbostock/1166403
+            // adapted from https://bl.ocks.org/mbostock/1166403
             var sliderAxis = d3.svg.axis()
 		.scale(sliderScale)
 		.orient("bottom")
@@ -765,7 +765,7 @@ LDAvis = function(to_select, json_file) {
                     return d.Term;
                 });
 
-            // adapted from http://bl.ocks.org/mbostock/1166403
+            // adapted from https://bl.ocks.org/mbostock/1166403
             var xAxis = d3.svg.axis().scale(x)
                 .orient("top")
                 .tickSize(-barheight)
@@ -1094,7 +1094,7 @@ LDAvis = function(to_select, json_file) {
                 .style("fill", color2)
                 .attr("opacity", 0.8);
 
-            // adapted from http://bl.ocks.org/mbostock/1166403
+            // adapted from https://bl.ocks.org/mbostock/1166403
             var xAxis = d3.svg.axis().scale(x)
                 .orient("top")
                 .tickSize(-barheight)
@@ -1167,7 +1167,7 @@ LDAvis = function(to_select, json_file) {
                     return d.Term;
                 });
 
-            // adapted from http://bl.ocks.org/mbostock/1166403
+            // adapted from https://bl.ocks.org/mbostock/1166403
             var xAxis = d3.svg.axis().scale(x)
                 .orient("top")
                 .tickSize(-barheight)
@@ -1283,7 +1283,7 @@ LDAvis = function(to_select, json_file) {
         }
 
 
-        // serialize the visualization state using fragment identifiers -- http://en.wikipedia.org/wiki/Fragment_identifier
+        // serialize the visualization state using fragment identifiers -- https://en.wikipedia.org/wiki/Fragment_identifier
         // location.hash holds the address information
 
         var params = location.hash.split("&");
