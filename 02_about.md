@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a Post-Doc at the Center for Environmental and Climate Research (CEC), Lund University. Currently working on insurance values of soil biodiversity.
+I am a Post-Doc at the Center for Environmental and Climate Research (CEC), Lund University, currently working on insurance values of soil biodiversity.
 
 Generally, I am interested in applied econometric research on public finance institutions for land use, conservation, and participatory governance mechanisms for sustainable development and public good provision.
 
