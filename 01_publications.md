@@ -16,7 +16,7 @@ title: Publications
 
 ## Journal Articles
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2017) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *Forthcoming in PLOS One*. [draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *Forthcoming in PLOS One*. [draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 + **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2018) Ecological Fiscal Transfers in Europe – Evidence-Based Design Options for a Transnational Scheme. *Ecological Economics* 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
 
