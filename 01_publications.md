@@ -18,6 +18,8 @@ title: Publications
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *Forthcoming in PLOS One*. [draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
++ **Droste, N.**, Bartkowski, B (2018) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* 71(1): 205–-215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
+
 + **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2018) Ecological Fiscal Transfers in Europe – Evidence-Based Design Options for a Transnational Scheme. *Ecological Economics* 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
 
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
@@ -25,8 +27,6 @@ title: Publications
 + **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](https://doi.org/10.1002/eet.1774)
 
 + **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017)  Municipal Responses to Ecological Fiscal Transfers in Brazil: A microeconometric panel data approach. *Environmental Policy and Governance* 27(4): 378--393. doi: [10.1002/eet.1760](https://doi.org/10.1002/eet.1760)
-
-+ **Droste, N.**, Bartkowski, B (2017) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
 
 + D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017) Green, Circular, Bio economy: a comparative analysis of sustainability avenues. *Journal of Cleaner Production* 168: 716--734. doi: [10.1016/j.jclepro.2017.09.053](https://doi.org/10.1016/j.jclepro.2017.09.053)
 
