@@ -16,7 +16,7 @@ title: Publications
 
 ## Journal Articles
 
-+ **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *Forthcoming in PLOS One*. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749) [draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
++ **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *Forthcoming in PLOS One*. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749); [original draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
 + **Droste, N.**, Bartkowski, B (2018) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* 71(1): 205–-215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
 
