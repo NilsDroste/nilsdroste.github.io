@@ -18,9 +18,9 @@ title: Publications
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *PLoS ONE* 13(9): e0204749. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749); [original draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
-+ **Droste, N.**, Bartkowski, B (2018) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* 71(1): 205–-215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
++ **Droste, N.**, Bartkowski, B (2018) Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* 71(1): 205--215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
 
-+ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2018) Ecological Fiscal Transfers in Europe – Evidence-Based Design Options for a Transnational Scheme. *Ecological Economics* 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
++ **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2018) Ecological Fiscal Transfers in Europe -- Evidence-Based Design Options for a Transnational Scheme. *Ecological Economics* 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
 
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2017) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Forthcoming in Environmental and Resource Economics*. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
