@@ -72,7 +72,9 @@ title: Publications
 
 ## Work in progress
 
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2017) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing_job_market_paper.pdf)
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2018) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
+
++ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D. et al. (2018) Disentangling 'ecosystem services' and 'nature´s contribution to people': how different they are?. 
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2017) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.
 
