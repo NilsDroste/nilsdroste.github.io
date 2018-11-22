@@ -76,7 +76,7 @@ title: Publications
 
 + Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Disentangling 'ecosystem services' and 'nature´s contribution to people': how different are they?.
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B.,  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B.  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.
 
 + D’Amato, D., **Droste, N.**, Winkler, K.J. (2018) Measuring Q - researchers’ shared views on Circular, Green and Bioeconomy.
 
