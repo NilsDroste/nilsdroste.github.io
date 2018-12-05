@@ -74,15 +74,15 @@ title: Publications
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2018) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
 
-+ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Disentangling 'ecosystem services' and 'nature´s contribution to people': how different are they?.
++ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Untangling "Ecosystem Services" and "Nature's Contributions to People". *Submitted*
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B.  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B.  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *Submitted*
 
-+ D’Amato, D., **Droste, N.**, Winkler, K.J. (2018) Measuring Q - researchers’ shared views on Circular, Green and Bioeconomy.
++ D’Amato, D., **Droste, N.**, Winkler, K.J. (2018) Measuring Q - researchers’ shared views on Circular, Green and Bioeconomy. *Submitted*
 
 + **Droste, N.** (2017) Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.
 
-+ **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice.
+<!-- + **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice. -->
 
 <a href="#top">Back to top</a>
 
