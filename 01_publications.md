@@ -16,7 +16,7 @@ title: Publications
 
 ## Journal Articles
 
-+ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2018) Decentralization effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Environmental and Resource Economics* 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++ **Droste, N.**, Becker, C., Ring, I., Santos, R. (2018) Decentralization Effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Environmental and Resource Economics* 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2018) Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *PLoS ONE* 13(9): e0204749. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749); [original draft](https://nils.droste.io/research/ES_LDA/ES_draft_2017_11.pdf)
 
@@ -74,7 +74,7 @@ title: Publications
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2018) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
 
-+ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Untangling "Ecosystem Services" and "Nature's Contributions to People". *Submitted*
++ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Submitted*
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *Submitted*
 
