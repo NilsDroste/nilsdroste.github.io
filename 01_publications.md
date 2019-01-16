@@ -5,8 +5,6 @@ title: Publications
 
 - [Journal Articles](#journal-articles)
 - [Book Chapters](#book-chapters)
-<!-- - [Submissions](#submissions) -->
-<!-- - [Working Paper](#working-paper) -->
 - [Work in progress](#work-in-progress)
 - [Reports](#reports-and-chapters-therein)
 - [Other Publications](#other-publications)
@@ -54,27 +52,13 @@ title: Publications
 
 <a href="#top">Back to top</a>
 
-<!-- ---
-
-## Working Paper
-
-<a href="#top">Back to top</a> -->
-
-<!-- ---
-
-## Submissions
-
-+
-
-<a href="#top">Back to top</a> -->
-
 ---
 
 ## Work in progress
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2018) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
 
-+ Kadykalo, A.N., Ainscough, J., **Droste, N.**, Harmáčková, Z., López Rodriguez, M.D., et al. (2018) Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Submitted*
++ Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, et al. (2018) Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Submitted*
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B.  (2018) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. *Submitted*
 
