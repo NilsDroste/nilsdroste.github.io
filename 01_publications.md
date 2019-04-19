@@ -79,9 +79,9 @@ title: Publications
 
 + **Droste, N.** (2018) Incentive Effects in Ecological Fiscal Transfers -- Evidence based foundations for policy advice. Doctoral Thesis. Martin-Luther University Halle-Wittenberg. doi: [10.25673/6655](http://dx.doi.org/10.25673/6655). [Download](https://nils.droste.io/research/thesis/Droste2018_Incentives-in-Ecological-Fiscal-Transfers.pdf)
 
-+ **Droste, N. (2013)** Naturschutz im föderalen System Deutschlands -- Eine ökonomische Perspektive auf einen ökologischen Finanzausgleich. Carl von Ossietzky University Oldenburg, UFZ -- Helmholtz Centre for Environmental Research. [Download](https://nils.droste.io/research/thesis/Droste2013_Naturschutz-im-foederalen-System-Deutschlands.pdf)
++ **Droste, N.** (2013) Naturschutz im föderalen System Deutschlands -- Eine ökonomische Perspektive auf einen ökologischen Finanzausgleich. Carl von Ossietzky University Oldenburg, UFZ -- Helmholtz Centre for Environmental Research. [Download](https://nils.droste.io/research/thesis/Droste2013_Naturschutz-im-foederalen-System-Deutschlands.pdf)
 
-+ **Droste, N. (2010)** Regime effectiveness of climate protection – adapting Elinor Ostrom's institutional design principles. University Bremen. [Download](https://nils.droste.io/research/thesis/Droste2010_Regime-effectiveness-of-climate-protection.pdf)
++ **Droste, N.** (2010) Regime effectiveness of climate protection – adapting Elinor Ostrom's institutional design principles. University Bremen. [Download](https://nils.droste.io/research/thesis/Droste2010_Regime-effectiveness-of-climate-protection.pdf)
 
 <a href="#top">Back to top</a>
 
