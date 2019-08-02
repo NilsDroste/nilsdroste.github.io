@@ -16,7 +16,7 @@ order: 2
 
 ## Journal Articles
 
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (forthcoming) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf) *Conservation Letters*
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (forthcoming) Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters*; [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
 
 + D’Amato, D., **Droste, N.**, Winkler, K.J., Toppinen, A. (2019) Thinking Green, Circular or Bio: eliciting researchers' perspectives on a sustainable economy with Q method. *Journal of Cleaner Production* 230: 460--476.
 
