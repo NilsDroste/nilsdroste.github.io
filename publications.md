@@ -16,6 +16,8 @@ order: 2
 
 ## Journal Articles
 
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (forthcoming) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf) *Conservation Letters*
+
 + D’Amato, D., **Droste, N.**, Winkler, K.J., Toppinen, A. (2019) Thinking Green, Circular or Bio: eliciting researchers' perspectives on a sustainable economy with Q method. *Journal of Cleaner Production* 230: 460--476.
 
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2018) Decentralization Effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Environmental and Resource Economics* 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
@@ -59,8 +61,6 @@ order: 2
 ---
 
 ## Work in progress
-
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (forthcoming) Designing a global mechanism for intergovernmental biodiversity financing. [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf) *In Review*
 
 + Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, et al. (2018) Disentangling "Ecosystem Services" and "Nature's Contributions to People". *In Review*
 
