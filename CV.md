@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+order: 1
 ---
 
 - [Research Interests](#research-interests)
