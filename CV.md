@@ -51,7 +51,11 @@ order: 1
 
 <table>
   <tr>
-    <td>from 09/2018</td>
+    <td>from 09/2019</td>
+    <td>Associate Senior Lecturer, Political Science, Lund University</td>
+  </tr>
+  <tr>
+    <td>from 09/2018-08/2019</td>
     <td>Post-Doc, Center for Environmental and Climate Research, Lund University</td>
   </tr>
   <tr>
