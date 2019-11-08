@@ -66,7 +66,7 @@ order: 2
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2018) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Submitted
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2018) *Implementing result-based agri-environmental payments by means of modelling* [arXiv working paper](https://arxiv.org/abs/1908.08219)
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2018) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219)
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B. *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
 
