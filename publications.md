@@ -64,13 +64,15 @@ order: 2
 
 ## Work in progress
 
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2018) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Submitted
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219) *R&R Land Use Policy*
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2018) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219)
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. *Submitted to Sustainability Science*
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B. *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
++ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*. 
 
-+ **Droste, N.** *Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.*
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2018) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
+
+<!-- + **Droste, N.** *Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.* -->
 
 <!-- + **Droste, N.**, Bartkowski, B. (2016) Economic valuation to assess critical scarcity of ecosystem services - between welfare theory and accounting practice. -->
 
