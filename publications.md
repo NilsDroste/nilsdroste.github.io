@@ -64,11 +64,11 @@ order: 2
 
 ## Work in progress
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219) *R&R Land Use Policy*
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R Land Use Policy
 
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. *Submitted to Sustainability Science*
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Submitted to Sustainability Science
 
-+ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*. 
++ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*.
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2018) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
 
