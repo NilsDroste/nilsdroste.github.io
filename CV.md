@@ -128,6 +128,10 @@ order: 1
 
 <table>
   <tr>
+    <td>2019</td>
+    <td>Best 2019 paper published in Ecosystems and People</td>
+  </tr>
+  <tr>
     <td>2018</td>
     <td>Luther-Award of the MLU Halle-Wittenberg for an excellent doctoral thesis</td>
   </tr>
