@@ -4,7 +4,7 @@ title: About
 order: 3
 ---
 
-I am a newly assigned Associate Senior Lecturer (Biträdande Lektor) in Environmental Politics at the [Political Science Department](https://www.svet.lu.se/en/start-department-of-political-science) in Lund. My position is co-financed by the strategic research area [Biodiversity and Ecosystems in a Changing Climate](https://www.becc.lu.se/).
+I am an Associate Senior Lecturer (Biträdande Lektor) in Environmental Politics at the [Political Science Department](https://www.svet.lu.se/en/start-department-of-political-science) in Lund. My position is co-financed by the strategic research area [Biodiversity and Ecosystems in a Changing Climate](https://www.becc.lu.se/) where I am principle investigator and deputy theme leader of the biodiversity theme.
 
 As a Post-Doc at the [Center for Environmental and Climate Research](https://www.cec.lu.se/) (CEC), Lund University, I worked on insurance values of soil biodiversity.
 

@@ -11,7 +11,7 @@ order: 1
 
 ---
 
-- [CV for download](https://nils.droste.io/research/CV/CV2019.pdf)
+- [CV for download](https://nils.droste.io/research/CV/CV2020.pdf)
 
 ---
 
