@@ -80,7 +80,7 @@ order: 2
 
 ---
 
-## Thesis
+## Theses
 
 + **Droste, N.** (2018). Incentive Effects in Ecological Fiscal Transfers -- Evidence based foundations for policy advice. Doctoral Thesis. Martin-Luther University Halle-Wittenberg. doi: [10.25673/6655](http://dx.doi.org/10.25673/6655). [Download](https://nils.droste.io/research/thesis/Droste2018_Incentives-in-Ecological-Fiscal-Transfers.pdf)
 
