@@ -108,6 +108,8 @@ order: 2
 
 ## Other Publications
 
++ **Droste, N.** (2020). Ecological Fiscal Transfers: sharing money, protecting nature. Green Economomy Coalition - Insights Series. [link](https://www.greeneconomycoalition.org/news-analysis/ecological-fiscal-transfers-sharing-money-protecting-nature)
+
 + Meya, J., **Droste, N.**, Klauer, B. (2016). Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
 
 + **Droste, N.**, Freitas Oliveira, R. (2016). On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
