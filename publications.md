@@ -16,7 +16,7 @@ order: 2
 
 ## Journal Articles
 
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters*. doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670); [draft](https://nils.droste.io/research/EFT-world/Droste-et-al_2017_On a global mechanism for biodiversity financing.pdf)
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters*. doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
 + Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Ecosystems and People*. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)
 
@@ -64,11 +64,15 @@ order: 2
 
 ## Work in progress
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R Land Use Policy
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.*
 
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Submitted to Ambio
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020) *What makes businesses commit to nature conservation?*. R&R *Business Strategy and the Environment*
 
-+ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*.
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R *Land Use Policy*
+
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Minor revisions *Ambio*
+
++ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*. Invited Review *European Review of Agricultural Economics*
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2018) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
 
@@ -107,6 +111,8 @@ order: 2
 ---
 
 ## Other Publications
+
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments.Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
 
 + **Droste, N.** (2020). Ecological Fiscal Transfers: sharing money, protecting nature. *Green Economomy Coalition - Insights Series*. [link](https://www.greeneconomycoalition.org/news-analysis/ecological-fiscal-transfers-sharing-money-protecting-nature)
 
