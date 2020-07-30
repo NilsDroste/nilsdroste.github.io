@@ -64,15 +64,15 @@ order: 2
 
 ## Work in progress
 
-+ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.*
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020) *Reviewing the interface of bioeconomy and ecosystem service research*. Forthcoming *Ambio*
+
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.*
 
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020) *What makes businesses commit to nature conservation?*. R&R *Business Strategy and the Environment*
 
++ **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*. Invited Review *European Review of Agricultural Economics*
+
 + Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R *Land Use Policy*
-
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2019) *Bioeconomy and ecosystem services: a comprehensive review of the literature*. Minor revisions *Ambio*
-
-+ **Droste, N.**, Bartkowski, B., Finger, R. (2019). *Topics in agricultural and environmental economics – a large-scale bibliometric analysis*. Invited Review *European Review of Agricultural Economics*
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2018) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
 
