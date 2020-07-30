@@ -112,11 +112,13 @@ order: 2
 
 ## Other Publications
 
-+ Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments.Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
++ Ryu H., Coscieme L., **Droste N.**, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. *Frontiers for Young Minds 8*(98). doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)
+
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments. Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
 
 + **Droste, N.** (2020). Ecological Fiscal Transfers: sharing money, protecting nature. *Green Economomy Coalition - Insights Series*. [link](https://www.greeneconomycoalition.org/news-analysis/ecological-fiscal-transfers-sharing-money-protecting-nature)
 
-+ Meya, J., **Droste, N.**, Klauer, B. (2016). Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58.
++ Meya, J., **Droste, N.**, Klauer, B. (2016). Methodische Defizite der Umweltbewertung im Bundesverkehrswegeplan 2030. *Wasserwirtschaft* 10: 57-58. doi: [10.1007/s35147-016-0168-8](https://doi.org/10.1007/s35147-016-0168-8)
 
 + **Droste, N.**, Freitas Oliveira, R. (2016). On the contributions of ecological economics – a student’s perspective. *EcoEco - Boletim da Sociedade Brasileira de Economia Ecólogica* *34/35*: 8-22.
 
