@@ -16,6 +16,8 @@ order: 2
 
 ## Journal Articles
 
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020) *Reviewing the interface of bioeconomy and ecosystem service research*. Forthcoming *Ambio*
+
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*(e12670). doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
 + Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Ecosystems and People* 15:1, 269--287. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)
@@ -63,8 +65,6 @@ order: 2
 ---
 
 ## Work in progress
-
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020) *Reviewing the interface of bioeconomy and ecosystem service research*. Forthcoming *Ambio*
 
 + **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.*
 
