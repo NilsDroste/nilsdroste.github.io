@@ -16,7 +16,7 @@ order: 2
 
 ## Journal Articles
 
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020) *Reviewing the interface of bioeconomy and ecosystem service research*. Forthcoming *Ambio*
++ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. Forthcoming *Ambio*
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*(e12670). doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
