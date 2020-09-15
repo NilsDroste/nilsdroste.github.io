@@ -17,8 +17,10 @@ order: 1
 
 ## Research statement
 
-***To facilitate the transition towards sustainable human-environment relations, I study the effectiveness of
-land use and conservation policies.***
+
+To facilitate the transition towards sustainable human-environment relations, I study the effectiveness of
+land use and conservation policies.
+
 
 ---
 
