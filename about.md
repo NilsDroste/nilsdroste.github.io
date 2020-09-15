@@ -17,6 +17,7 @@ I want to understand how environmental policies can help societies transition to
   - panel data analysis for a non-simultaneous self-selection into treatment of implementing ecological fiscal transfers in Brazil;
   - Bayesian structural time series analysis, simulating a counterfactual time series for fiscal transfer policy changes in Portugal; or
   - regression trees and random forest models for obtaining characteristics of potential beneficiaries of a EU wide ecological allocative mechanism of EU funds;
+  - multilevel models for long-term agricultural experiments
 
 I also employ machine-learning approaches such as content-analysis through (structural) topic models.
 
