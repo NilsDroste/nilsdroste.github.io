@@ -12,13 +12,15 @@ For my doctoral thesis at the [Helmholtz Centre for Environmental Research -- UF
 
 <!-- The theoretical foundation for these analyses is the principle of fiscal equivalence by Mancur Olson ([1969](https://www.jstor.org/stable/1823700)). It states that those jurisdictions who benefit from a policy should also bear the corresponding costs of provision. It is thus based on ideas of economic efficiency but outcomes can also be analyzed in terms of equity (cf. [Ostrom, 2011, p. 16](https://onlinelibrary.wiley.com/doi/10.1111/j.1541-0072.2010.00394.x/full)). Depending on the characteristics of the good in question, the degree of optimal<sup>[1](#myfootnote1)</sup> (and / or equitable) decentralization of legislative competencies may vary (cf. [Tiebout, 1956; ](https://www.jstor.org/stable/1826343)[Qian and Weingast, 1997; ](https://www.jstor.org/stable/2138464)[Faguet, 2014](https://www.sciencedirect.com/science/article/pii/S0305750X13000089)). Structure-wise, such overlapping competencies regarding (natural) resource usage are often organized within polycentric, multiorder governance systems ([Eusepi and Wagner, 2010; ](https://www.degruyter.com/abstract/j/rle.2010.6.3/rle.2010.6.3.1534/rle.2010.6.3.1534.xml)[Ostrom, 2010](https://www.jstor.org/stable/27871226)). In this context I am analyzing effects of fiscal transfer and competency changes. -->
 
-Generally, I am interested in applied econometric research on land use and conservation policies, and participatory governance mechanisms for sustainable development and public good provision. Empirically, I employ micro-econometric techniques such as:
+I want to understand how environmental policies can help societies transition towards a sustainable land use. Empirically, I employ micro-econometric techniques such as:
 
   - panel data analysis for a non-simultaneous self-selection into treatment of implementing ecological fiscal transfers in Brazil;
   - Bayesian structural time series analysis, simulating a counterfactual time series for fiscal transfer policy changes in Portugal; or
   - regression trees and random forest models for obtaining characteristics of potential beneficiaries of a EU wide ecological allocative mechanism of EU funds;
 
-and recently, I have started some content-analysis of research topics through unsupervised machine learning based algorithms. For current versions of the respective papers see <a href="https://nils.droste.io/01_publications/">publications</a>.
+I also employ machine-learning approaches such as content-analysis through (structural) topic models.
+
+For current versions of the respective papers see <a href="https://nils.droste.io/01_publications/">publications</a>.
 
 <!-- Generally, I am interested in how econometric methods can be used in order to assess effects of both existing and proposed policy changes. -->
 

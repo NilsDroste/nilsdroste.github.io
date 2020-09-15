@@ -66,7 +66,7 @@ order: 2
 
 ## Work in progress
 
-+ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.*
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.* Moderate Revision. *Environmental Research Letters*
 
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020) *What makes businesses commit to nature conservation?*. R&R *Business Strategy and the Environment*
 

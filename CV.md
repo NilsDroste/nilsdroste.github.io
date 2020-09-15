@@ -15,10 +15,10 @@ order: 1
 
 ---
 
-## Research interests
+## Research statement
 
-+ ***Primary***: Environmental & Ecological Economics, Econometrics & Policy Evaluation
-+ ***Secondary***: Public & Development Economics, Ecosystem Service & Biodiversity Governance
+***To facilitate the transition towards sustainable human-environment relations, I study the effectiveness of
+land use and conservation policies.***
 
 ---
 
@@ -27,7 +27,7 @@ order: 1
 <table>
   <tr>
     <td>2014-2018</td>
-    <td>Dr. rer. pol. Environmental Economics, Helmholtz Centre for Environmental Research – UFZ & Martin-Luther University Halle-Wittenberg, Germany</td>
+    <td>Dr. rer. pol. Public Finance and Ecological Economics, Helmholtz Centre for Environmental Research – UFZ & Martin-Luther University Halle-Wittenberg, Germany</td>
   </tr>
   <tr>
     <td>2011-2013</td>
