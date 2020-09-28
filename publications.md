@@ -16,7 +16,9 @@ order: 2
 
 ## Journal Articles
 
-+ D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. Forthcoming *Ambio*
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation?. *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
+
+  + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. Forthcoming *Ambio*
 
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*(e12670). doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
@@ -68,9 +70,7 @@ order: 2
 
 + **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.* Moderate Revision. *Environmental Research Letters*
 
-+ Krause, M., **Droste, N.**, Matzdorf, B. (2020) *What makes businesses commit to nature conservation?*. R&R *Business Strategy and the Environment*
-
-+ **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*. Invited Review *European Review of Agricultural Economics*
++ **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*. 
 
 + Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R *Land Use Policy*
 
