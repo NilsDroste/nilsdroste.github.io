@@ -16,6 +16,8 @@ order: 2
 
 ## Journal Articles
 
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming
+
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation?. *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. Forthcoming *Ambio*. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
@@ -67,8 +69,6 @@ order: 2
 ---
 
 ## Work in progress
-
-+ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). *Soil Carbon insures arable crop production against increasing adverse weather due to climate change.* Moderate Revision. *Environmental Research Letters*
 
 + **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*.
 
