@@ -22,6 +22,8 @@ order: 2
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. Forthcoming *Ambio*. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
 
++ Ryu H., Coscieme L., **Droste N.**, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. *Frontiers for Young Minds 8*(98). doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)
+
 + **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*(e12670). doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
 + Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Ecosystems and People* 15:1, 269--287. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)
@@ -111,8 +113,6 @@ order: 2
 ---
 
 ## Other Publications
-
-+ Ryu H., Coscieme L., **Droste N.**, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. *Frontiers for Young Minds 8*(98). doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)
 
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments. Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
 
