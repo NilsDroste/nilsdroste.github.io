@@ -16,7 +16,7 @@ order: 2
 
 ## Journal Articles
 
-+ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
 
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation?. *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
 
@@ -31,6 +31,7 @@ order: 2
 + D’Amato, D., **Droste, N.**, Winkler, K.J., Toppinen, A. (2019). Thinking Green, Circular or Bio: eliciting researchers' perspectives on a sustainable economy with Q method. *Journal of Cleaner Production* 230: 460--476. doi: [10.1016/j.jclepro.2019.05.099](https://doi.org/10.1016/j.jclepro.2019.05.099)
 
 + **Droste, N.**, Becker, C., Ring, I., Santos, R. (2018). Decentralization Effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Environmental and Resource Economics* 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
++
 
 + **Droste, N.**, D’Amato, D., Goddard, J.J. (2018). Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *PLoS ONE* 13(9): e0204749. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749);
 
