@@ -26,4 +26,4 @@ Recently, I have taught, together with Fariborz Zelli, now for the second time, 
 We apply a mixture of theory heavy lectures and much more applied lectures and simulations, and even had a game of Bruno Latour's [Politics of Nature](https://www.politicsofnature.org/) as a premier this year. The concept has just won the Prize for International Student Teaching by the ECPR Standing Group [Teaching and Learning Politics](https://standinggroups.ecpr.eu/tlp/). Lucky us, the students seemed to like it, too ;D
 
 ![GEG 2020 survey]({{ site.url }}/pics/GEGsurvey2020.jpg?raw=true)
-<p style="text-align: right;"><sub><sup>Student responses on general course impression, 2020 survey, 50 % anonynous response rate, on a scale from 1 (super useless) to 5 (super helpful).</sup></sub></p>
+<p style="text-align: right;"><sub><sup>Student responses on a scale from 1 (super useless) to 5 (super helpful), 50 % anonynous response rate.</sup></sub></p>
