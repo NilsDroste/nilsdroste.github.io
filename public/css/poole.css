@@ -263,7 +263,7 @@ tbody tr:nth-child(odd) th {
 }
 .auto-resizable-iframe > div {
   position: relative;
-  padding-bottom: 56.25%%;
+  padding-bottom: 56.25%;
   height: 0px;
 }
 .auto-resizable-iframe iframe {
