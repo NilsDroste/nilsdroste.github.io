@@ -6,11 +6,11 @@ title: Teaching Global Environmental Governance
 About a year into my new position, I have now dived into teaching. Immersed really.
 
 <p align="center">
-  <!-- <div class="auto-resizable-iframe">
-    <div> -->
+  <div class="auto-resizable-iframe">
+    <div>
       <iframe title="Nils Droste - Global Environmental Governance" width="100%" height="100%" src="https://www.youtube.com/embed/yulFxGZ03qE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <!-- </div>
-  </div> -->
+    </div>
+  </div>
 </p>
 
 <!-- [![Nils Droste - Global Environmental Governance](https://www.youtube.com/watch?v=yulFxGZ03qE&list=PL7jgeAVSZZqGVIneuGKZACa02Jgq1LlB0&index=3)](https://youtu.be/yulFxGZ03qE "Nils Droste - Global Environmental Governance") -->
