@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching Global Environemntal Governance
+title: Teaching Global Environmental Governance
 ---
 
 About a year into my new position, I have now dived into teaching. Immersed really.
