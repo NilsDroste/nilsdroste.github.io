@@ -256,7 +256,7 @@ tbody tr:nth-child(odd) th {
 * scale the video to fit to a percent of the users browser but also to keep the aspect ratio.
  */
 
-
+/*
 .auto-resizable-iframe {
   max-width: 100%;
   margin: 0px auto;
@@ -264,7 +264,7 @@ tbody tr:nth-child(odd) th {
 
 .auto-resizable-iframe > div {
   position: relative;
-  /* padding-bottom: 75%; */
+  padding-bottom: 75%;
   height: 0px;
 }
 
@@ -274,7 +274,7 @@ tbody tr:nth-child(odd) th {
   left: 0px;
   width: 100%;
   height: 100%;
-}
+} */
 
 
 /*
