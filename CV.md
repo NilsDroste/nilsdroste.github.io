@@ -130,6 +130,10 @@ land use and conservation policies.
 
 <table>
   <tr>
+    <td>2020</td>
+    <td>Teaching International Students Prize, ECPR Standing Group Teaching and Learning Politics</td>
+  </tr>
+  <tr>
     <td>2019</td>
     <td>Best 2019 paper published in Ecosystems and People</td>
   </tr>
