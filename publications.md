@@ -115,6 +115,8 @@ order: 2
 
 ## Other Publications
 
++ Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief, 33*  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
+
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments. Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
 
 + **Droste, N.** (2020). Ecological Fiscal Transfers: sharing money, protecting nature. *Green Economomy Coalition - Insights Series*. [link](https://www.greeneconomycoalition.org/news-analysis/ecological-fiscal-transfers-sharing-money-protecting-nature)
