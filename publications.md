@@ -16,7 +16,7 @@ order: 2
 
 ## Journal Articles
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Implementing result-based agri-environmental payments by means of modelling. *Land Use Policy*. Forthcoming. [arXiv working paper](https://arxiv.org/abs/1908.08219)
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes . *Land Use Policy*. Forthcoming. [arXiv working paper](https://arxiv.org/abs/1908.08219)
 
 + **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
 
