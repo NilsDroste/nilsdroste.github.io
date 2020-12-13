@@ -16,9 +16,11 @@ order: 2
 
 ## Journal Articles
 
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) *Implementing result-based agri-environmental payments by means of modelling*. *Land Use Policy*. Forthcoming. [arXiv working paper](https://arxiv.org/abs/1908.08219)
+
 + **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
 
-+ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation?. *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. *Ambio 49*: 1878--1896. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
 
@@ -75,9 +77,9 @@ order: 2
 
 + **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*.
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2019) *Implementing result-based agri-environmental payments by means of modelling*. [arXiv working paper](https://arxiv.org/abs/1908.08219). R&R *Land Use Policy*
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2020) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2018) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
++ Marzelius, M., **Droste, N.** (2020) *Local institutions matter -- a comparative political ecology of deforestation on Hispaniola*
 
 <!-- + **Droste, N.** *Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.* -->
 
@@ -115,7 +117,7 @@ order: 2
 
 ## Other Publications
 
-+ Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief, 33*  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
++ Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief* 33.  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
 
 + Krause, M., **Droste, N.**, Matzdorf, B. (2020). Datasets from a Germany-wide business survey on voluntary nature conservation commitments. Leibniz Centre for Agricultural Landscape Research (ZALF). doi:[10.4228/ZALF.DK.149](https://www.doi.org/10.4228/ZALF.DK.149)
 
