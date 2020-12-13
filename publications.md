@@ -20,7 +20,7 @@ order: 2
 
 + **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
 
-+ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment* Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment*. Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. *Ambio 49*: 1878--1896. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
 
