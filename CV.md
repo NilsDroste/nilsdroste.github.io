@@ -8,6 +8,7 @@ order: 1
 - [Education](#education)
 - [Professional Experience](#professional-experience)
 - [Awards and Scholarships](#awards-and-scholarships)
+- [Research Grants](#research-grants)
 
 ---
 
