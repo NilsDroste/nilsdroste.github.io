@@ -172,3 +172,43 @@ land use and conservation policies.
 </table>
 
 <a href="#top">Back to top</a>
+
+
+---
+
+## Research Grants
+
+<table>
+  <tr>
+    <td>2021</td>
+    <td>Green forests policies: a comparative assessment of outcomes and trade-offs across Fenno-Scandinavia (GreenPole). NordForsk: 15mio NOK, coordinator.</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>The effect of environmental policies on voter support in Sweden (MiljöPolStöd) - Margit Stiernswärds fond för miljövårdsforskning, Lund University: 38k SEK, main applicant</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Social and ecological context of climate change adaptation for
+  biodiversity. BECC – Biodiversity and Ecosystem services in a Changing Climate: 280k SEK, co-applicant</td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Glyphosate in social media - a spatio-temporal analysis of twitter controversies among European stakeholders (GlyphoSentiment), BECC – Biodiversity and Ecosystem services in a Changing Climate: 1m SEK, main applicant</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Network on transformative research for sustainable, safe, and just futures (FUTURES), STINT Initiation Grant: 150k SEK, main applicant</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Glyphosate in Social Media, FRAM – Centre for Future Chemical Risk Assessment and Management Strategies, Gothenburg University: 100k SEK, co-applicant</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Early Career Researcher Workshop, BECC – Biodiversity and Ecosystem services in a Changing Climate: 100k SEK, main applicant</td>
+  </tr>
+</table>
+
+
+<a href="#top">Back to top</a>
