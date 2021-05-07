@@ -131,6 +131,10 @@ land use and conservation policies.
 
 <table>
   <tr>
+    <td>2021</td>
+    <td>Fellowship Lund University Centre for Innnovation Research (CIRCLE)</td>
+  </tr>
+  <tr>
     <td>2020</td>
     <td>Teaching International Students Prize, ECPR Standing Group Teaching and Learning Politics</td>
   </tr>
