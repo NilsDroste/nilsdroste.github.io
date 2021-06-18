@@ -21,3 +21,8 @@ text {
     font-family: sans-serif;
     font-size: 11px;
 }
+
+body {
+      margin: 0px;
+      padding: 0px;
+     }
