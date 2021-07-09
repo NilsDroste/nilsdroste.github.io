@@ -16,19 +16,19 @@ order: 2
 
 ## Journal Articles
 
-+ Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability*. Forthcoming.
++ Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability*. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)
 
-+ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes. *Land Use Policy*. Forthcoming. doi: [10.1016/j.landusepol.2020.105230](https://doi.org/10.1016/j.landusepol.2020.105230) [arXiv working paper](https://arxiv.org/abs/1908.08219)
++ Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes. *Land Use Policy 102*: 105230. doi: [10.1016/j.landusepol.2020.105230](https://doi.org/10.1016/j.landusepol.2020.105230); [arXiv working paper](https://arxiv.org/abs/1908.08219)
 
-+ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters*. Forthcoming. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
++ **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters 15*: 124034. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
 
-+ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment*. Forthcoming. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
++ Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment 30*(2): 741-755. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
 
 + D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. *Ambio 49*: 1878--1896. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
 
 + Ryu H., Coscieme L., **Droste N.**, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. *Frontiers for Young Minds 8*(98). doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)
 
-+ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*(e12670). doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
++ **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*: e12670. doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
 
 + Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Ecosystems and People  15*(1): 269--287. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)
 
