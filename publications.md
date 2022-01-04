@@ -16,7 +16,9 @@ order: 2
 
 ## Journal Articles
 
-+ Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability*. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)
++ Finger, R. **Droste, N.**, Bartkowski, B., Ang, F. (2021) A note on performance indicators for agricultural economic journals. *Journal of Agricultural Economics*. Forthcoming. doi: 10.1111/1477-9552.12473
+
++ Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability4*(9), 756-765. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)
 
 + Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes. *Land Use Policy 102*: 105230. doi: [10.1016/j.landusepol.2020.105230](https://doi.org/10.1016/j.landusepol.2020.105230); [arXiv working paper](https://arxiv.org/abs/1908.08219)
 
