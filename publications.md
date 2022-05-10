@@ -16,7 +16,9 @@ order: 2
 
 ## Journal Articles
 
-+ Finger, R. **Droste, N.**, Bartkowski, B., Ang, F. (2021) A note on performance indicators for agricultural economic journals. *Journal of Agricultural Economics*. Forthcoming. doi: 10.1111/1477-9552.12473
++ **Droste, N.**, Alkan Olsson, J., Hanson, H., Knaggård, Å, Lima, G., Lundmark, L., Thoni, T., Zelli, F. (2022). A global overview of biodiversity offsetting governance. *Journal of Environmental Management 316*: 115231. doi: [10.1016/j.jenvman.2022.115231](https://doi.org/10.1016/j.jenvman.2022.115231)
+
++ Finger, R. **Droste, N.**, Bartkowski, B., Ang, F. (2021) A note on performance indicators for agricultural economic journals. *Journal of Agricultural Economics*. Forthcoming. doi: [10.1111/1477-9552.12473](https://doi.org/10.1111/1477-9552.12473)
 
 + Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability4*(9), 756-765. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)
 
