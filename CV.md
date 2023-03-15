@@ -12,7 +12,7 @@ order: 1
 
 ---
 
-- [CV for download](https://nils.droste.io/research/CV/CV2021.pdf)
+- [CV for download](https://nils.droste.io/research/CV/CV2023.pdf)
 
 ---
 
@@ -184,6 +184,24 @@ land use and conservation policies.
 ## Research Grants
 
 <table>
+  <tr>
+    <td>2023</td>
+    <td>MultiForSe - Multi-use forestry, private forest ownerships, and social learning networks. Approaching family forest owners as grassroots agents for alternative forest management (Formas). 10 mio SEK, 2023-2026, WP3 lead</td>
+  </tr>
+   <tr>
+    <td> </td>
+    <td>Wildfire in Sweden: Post-fire Forest Management - Societal Perceptions Acceptability and Ecosystem Recovery (BECC). 1 mio SEK, 2023-2024, coordinator</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>2022</td>
+    <td>Pathways towards an efficient alignment of the financial system with the needs of biodiversity (BIOPATH) - Swedish Foundation for Strategic Environmental Research (Mistra) Research Programme, 55 mio SEK, 2022-2026, WP3 lead</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Transdisciplinary co-production in forest policy research (ForPol). SNS Nordic Forest Research, 1mio SEK, 2022-2024, co-applicant</td>
+  </tr>
+  <tr>
   <tr>
     <td>2021</td>
     <td>Green forests policies: a comparative assessment of outcomes and trade-offs across Fenno-Scandinavia (GreenPole). NordForsk: 15mio NOK, coordinator.</td>
