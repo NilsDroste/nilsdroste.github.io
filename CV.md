@@ -25,9 +25,14 @@ land use and conservation policies.
 
 ---
 
-## Education
+## Education & Academic Titles
 
 <table>
+
+  <tr>
+    <td>2022</td>
+    <td>Venia Docendi, Political Science, Lund University, Sweden</td>
+  </tr>
   <tr>
     <td>2014-2018</td>
     <td>Dr. rer. pol. Public Finance and Ecological Economics, Helmholtz Centre for Environmental Research – UFZ & Martin-Luther University Halle-Wittenberg, Germany</td>
@@ -212,8 +217,7 @@ land use and conservation policies.
   </tr>
   <tr>
     <td> </td>
-    <td>Social and ecological context of climate change adaptation for
-  biodiversity. BECC – Biodiversity and Ecosystem services in a Changing Climate: 280k SEK, co-applicant</td>
+    <td>Social and ecological context of climate change adaptation for biodiversity. BECC – Biodiversity and Ecosystem services in a Changing Climate: 280k SEK, co-applicant</td>
   </tr>
   <tr>
     <td>2020</td>
