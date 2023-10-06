@@ -213,7 +213,6 @@ land use and conservation policies.
     <td>Transdisciplinary co-production in forest policy research (ForPol). SNS Nordic Forest Research, 1mio SEK, 2022-2024, co-applicant</td>
   </tr>
   <tr>
-  <tr>
     <td>2021</td>
     <td>Green forests policies: a comparative assessment of outcomes and trade-offs across Fenno-Scandinavia (GreenPole). NordForsk: 15mio NOK, coordinator.</td>
   </tr>
