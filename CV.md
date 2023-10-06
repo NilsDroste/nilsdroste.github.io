@@ -201,16 +201,15 @@ land use and conservation policies.
   </tr>
   <tr>
     <td> </td>
-    <td>The world of Pantopia: an exploration of ecologically sound futures. (BECC) SEK 420k, 2023-2024, co-lead.</td>
+    <td>The world of Pantopia: an exploration of ecologically sound futures (BECC) SEK 420k, 2023-2024, co-lead.</td>
   </tr>
-  <tr>
   <tr>
     <td>2022</td>
     <td>Pathways towards an efficient alignment of the financial system with the needs of biodiversity (BIOPATH) - Swedish Foundation for Strategic Environmental Research (Mistra) Research Programme, 55 mio SEK, 2022-2026, WP3 lead</td>
   </tr>
   <tr>
     <td> </td>
-    <td>Transdisciplinary co-production in forest policy research (ForPol). SNS Nordic Forest Research, 1mio SEK, 2022-2024, co-applicant</td>
+    <td>Transdisciplinary co-production in forest policy research (ForPol). SNS Nordic Forest Research, 1mio SEK, 2022-2024, co-applicant.</td>
   </tr>
   <tr>
     <td>2021</td>
