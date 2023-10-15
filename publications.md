@@ -83,6 +83,14 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 ## Work in progress
 
++ Chatterton, B., **Droste, N.**, Skovgaard, J. (2023) A political economy theory of fossil fuel subsidy reforms. Under review. 
+
++ Fridén, A., Nebasifu, A., D’Amato, D., Ekström, H., May, W., Iliev, B., Thomsen, M., **Droste, N.**, (2023) Forest policies in Nordic countries: introducing an open access database covering the last 200 years. Under review.
+
++ Bakx, T., Rubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2023) Riparian buffer zones in production forests create unequal costs among forest owners. Minor revisions in European Journal of Forest Research.
+
++ Henriks, S., Harring, N., & **Droste, N.** (2023). Voters do not punish their government for climate policies–evidence from Swedish temporal regression discontinuities. CeCAR Working Paper Series, no. 14. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337289). 
+
 + **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*.
 
 + **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2020) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
