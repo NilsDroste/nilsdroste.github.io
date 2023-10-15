@@ -91,11 +91,9 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 + Henriks, S., Harring, N., & **Droste, N.** (2023). Voters do not punish their government for climate policies–evidence from Swedish temporal regression discontinuities. CeCAR Working Paper Series, no. 14. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337289). 
 
-+ **Droste, N.**, Bartkowski, B., Finger, R. (2020). *Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance*.
++ **Droste, N.**, Bartkowski, B., Finger, R. (2021). Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance. LSR Working Papers Series, no. 2021:04. [link](https://lucris.lub.lu.se/ws/portalfiles/portal/101436273/LSRWPS0421.pdf)
 
-+ **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2020) *Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies.*
-
-+ Marzelius, M., **Droste, N.** (2020) *Local institutions matter -- a comparative political ecology of deforestation on Hispaniola*
++ **Droste, N.**, Lienhoop, N., Hansjürgens, B. (2021) Participatory budgeting as collective preference articulation – an institutional analysis of Ecuadorian municipal expenditure policies. doi: [10.31235/osf.io/w6usk](https://doi.org/10.31235/osf.io/w6usk)
 
 <!-- + **Droste, N.** *Protected Areas and the Environmental Kuznets Curve -- evidence from a global Bayesian panel data analysis.* -->
 
