@@ -16,8 +16,13 @@ order: 2
 
 ## Journal Articles
 
++ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. *Forest Policy and Economics 160*: 103142.
+doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)
+
++ Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research* (forthcoming)
+
 + Marzelius, M. **Droste, N.** (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. *Forest Policy and Economics 141*: 102765.
-doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765) 
+doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)
 
 + **Droste, N.**, Alkan Olsson, J., Hanson, H., Knaggård, Å, Lima, G., Lundmark, L., Thoni, T., Zelli, F. (2022). A global overview of biodiversity offsetting governance. *Journal of Environmental Management 316*: 115231. doi: [10.1016/j.jenvman.2022.115231](https://doi.org/10.1016/j.jenvman.2022.115231)
 
@@ -85,11 +90,7 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 + Chatterton, B., **Droste, N.**, Skovgaard, J. (2023) A political economy theory of fossil fuel subsidy reforms. *Under review*. 
 
-+ Fridén, A., Nebasifu, A., D’Amato, D., Ekström, H., May, W., Iliev, B., Thomsen, M., **Droste, N.**, (2023) Forest policies in Nordic countries: introducing an open access database covering the last 200 years. *Under review*.
-
-+ Bakx, T., Rubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2023) Riparian buffer zones in production forests create unequal costs among forest owners. *Minor revisions in European Journal of Forest Research*.
-
-+ Henriks, S., Harring, N., & **Droste, N.** (2023). Voters do not punish their government for climate policies–evidence from Swedish temporal regression discontinuities. CeCAR Working Paper Series, no. 14. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337289). 
++ Henriks, S., Harring, N., & **Droste, N.** (2023). Voters do not punish their government for climate policies–evidence from Swedish temporal regression discontinuities. CeCAR Working Paper Series, no. 14. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337289). 
 
 + **Droste, N.**, Bartkowski, B., Finger, R. (2021). Hot topics in agricultural and environmental economics – a large-scale bibliometric analysis to assess trends and their policy relevance. LSR Working Papers Series, no. 2021:04. [link](https://lucris.lub.lu.se/ws/portalfiles/portal/101436273/LSRWPS0421.pdf)
 
@@ -130,6 +131,8 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 ---
 
 ## Other Publications
+
++ Fridén, A., Ayonghe, A., D'amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., & **Droste, N.** (2023). Nordic forest policy database [Data set]. Zenodo OpenAire. [10.5281/zenodo.7509341](https://zenodo.org/doi/10.5281/zenodo.7509341)
 
 + Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief* 33.  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
 
