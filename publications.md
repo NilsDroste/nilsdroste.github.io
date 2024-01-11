@@ -88,7 +88,7 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 ## Work in progress
 
-+  Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen, M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. doi: (10.2139/ssrn.4690517)[http://dx.doi.org/10.2139/ssrn.4690517] 
++  Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen, M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. doi: [10.2139/ssrn.4690517](http://dx.doi.org/10.2139/ssrn.4690517)
 
 + Chatterton, B., **Droste, N.**, Skovgaard, J. (2023) A political economy theory of fossil fuel subsidy reforms. *Under review*. 
 
