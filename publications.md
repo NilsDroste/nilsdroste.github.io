@@ -138,6 +138,8 @@ order: 2
 
 ## Other Publications
 
++ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., Droste, N. (2024). Nordic Forest Policy – a journey through two centuries. *EFI resilience blog*: [link](http://resilience-blog.com/2024/02/12/nordic-forest-policy-a-journey-through-two-centuries/)
+
 + Fridén, A., Ayonghe, A., D'amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., & **Droste, N.** (2023). Nordic forest policy database [Data set]. Zenodo OpenAire. doi: [10.5281/zenodo.7509341](https://zenodo.org/doi/10.5281/zenodo.7509341)
 
 + Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief* 33.  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
