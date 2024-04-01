@@ -138,7 +138,7 @@ order: 2
 
 ## Other Publications
 
-+ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., Droste, N. (2024). Nordic Forest Policy – a journey through two centuries. *EFI resilience blog*: [link](http://resilience-blog.com/2024/02/12/nordic-forest-policy-a-journey-through-two-centuries/)
++ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Nordic Forest Policy – a journey through two centuries. *EFI resilience blog*: [link](http://resilience-blog.com/2024/02/12/nordic-forest-policy-a-journey-through-two-centuries/)
 
 + Fridén, A., Ayonghe, A., D'amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., & **Droste, N.** (2023). Nordic forest policy database [Data set]. Zenodo OpenAire. doi: [10.5281/zenodo.7509341](https://zenodo.org/doi/10.5281/zenodo.7509341)
 
