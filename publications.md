@@ -16,12 +16,14 @@ order: 2
 
 ## Journal Articles
 
++ Ekström, H., Danley, B., Clough, Y., & **Droste, N.** (2024). Barking up the wrong tree?-A guide to forest owner typology methods. Forest Policy and Economics, 163, 103208. doi [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)
+
++ Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research*. doi: [10.1007/s10342-024-01657-1](https://doi.org/10.1007/s10342-024-01657-1)
+
 + Ekström, H., **Droste, N.**, & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. *Environmental Modelling & Software*, 105998. [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)
 
 + Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. *Forest Policy and Economics 160*: 103142.
 doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)
-
-+ Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research* (forthcoming)
 
 + Marzelius, M. **Droste, N.** (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. *Forest Policy and Economics 141*: 102765.
 doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)
