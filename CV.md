@@ -12,14 +12,14 @@ order: 1
 
 ---
 
-- [CV for download](https://nils.droste.io/research/CV/CV2023.pdf)
+- [CV for download](https://nils.droste.io/research/CV/CV2024.pdf)
 
 ---
 
 ## Research statement
 
 
-To facilitate the transition towards sustainable human-environment relations, I study the effectiveness of
+To facilitate the transition towards sustainable human-environment relations, I study the effectiveness and acceptability of
 land use and conservation policies.
 
 

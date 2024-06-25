@@ -16,15 +16,21 @@ order: 2
 
 ## Journal Articles
 
-+ Ekström, H., **Droste, N.**, & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. *Environmental Modelling & Software*, 105998. [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)
++ **Droste, N.**, Chatterton, B., Skovgaard, J. (forthcoming). A political economy theory of fossil fuel subsidy reforms in OECD countries. *Nature Communications* [Accepted Manuscript]. doi: [10.1038/s41467-024-49835-4](https://doi.org/10.1038/s41467-024-49835-4)
 
-+ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. *Forest Policy and Economics 160*: 103142.
-doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)
++ Henriks, S., Harring, N., **Droste, N.** (forthcoming). Voters do not punish their government for climate policies under favorable conditions. *Environmental Politics* [Accepted Manuscript]. doi: [10.1080/09644016.2024.2373606](https://doi.org/10.1080/09644016.2024.2373606)
 
-+ Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research* (forthcoming)
++ Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., *Droste, N.* (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. *Trees, Forests and People 16*, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1080/09644016.2024.2373606)
 
-+ Marzelius, M. **Droste, N.** (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. *Forest Policy and Economics 141*: 102765.
-doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)
++ Ekström, H., Danley, B., Clough, Y., & **Droste, N.** (2024). Barking up the wrong tree?-A guide to forest owner typology methods. *Forest Policy and Economics 163*, 103208. doi [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)
+
++ Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research 143*. doi: [10.1007/s10342-024-01657-1](https://doi.org/10.1007/s10342-024-01657-1)
+
++ Ekström, H., **Droste, N.**, & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. *Environmental Modelling & Software 175*, 105998. [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)
+
++ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. *Forest Policy and Economics 160*: 103142. doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)
+
++ Marzelius, M. **Droste, N.** (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. *Forest Policy and Economics 141*: 102765. doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)
 
 + **Droste, N.**, Alkan Olsson, J., Hanson, H., Knaggård, Å, Lima, G., Lundmark, L., Thoni, T., Zelli, F. (2022). A global overview of biodiversity offsetting governance. *Journal of Environmental Management 316*: 115231. doi: [10.1016/j.jenvman.2022.115231](https://doi.org/10.1016/j.jenvman.2022.115231)
 
@@ -90,6 +96,8 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 ## Work in progress
 
++ Nebasifu, A., D'Amato, D., Ekstrom, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & Droste, N. (2024) Comparing Nordic Forest Governance: Key Informant Perspectives. *Available on SSRN*. doi: [10.2139/ssrn.4724850](https://dx.doi.org/10.2139/ssrn.4724850) 
+
 +  Iliev, B., Bentsen, N., Brownell, P., Droste, N. D'Amato, D. Arto, I. May, W., Thomsen, M., (2024) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. doi: [10.2139/ssrn.4690517](http://dx.doi.org/10.2139/ssrn.4690517)
 
 + Chatterton, B., **Droste, N.**, Skovgaard, J. (2023) A political economy theory of fossil fuel subsidy reforms. *Under review*. 
@@ -136,7 +144,9 @@ doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765
 
 ## Other Publications
 
-+ Fridén, A., Ayonghe, A., D'amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., & **Droste, N.** (2023). Nordic forest policy database [Data set]. Zenodo OpenAire. [10.5281/zenodo.7509341](https://zenodo.org/doi/10.5281/zenodo.7509341)
++ Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Nordic Forest Policy – a journey through two centuries. *EFI resilience blog*: [link](http://resilience-blog.com/2024/02/12/nordic-forest-policy-a-journey-through-two-centuries/)
+
++ Fridén, A., Ayonghe, A., D'amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., & **Droste, N.** (2023). Nordic forest policy database [Data set]. Zenodo OpenAire. doi: [10.5281/zenodo.7509341](https://zenodo.org/doi/10.5281/zenodo.7509341)
 
 + Krause, M., Matzdorf, B. **Droste, N.**, (2020) Survey data on voluntary nature conservation commitments of German businesses and their perceptions towards conservation credits. *Data in Brief* 33.  doi: [10.1016/j.dib.2020.106625](https://doi.org/10.1016/j.dib.2020.106625)
 
