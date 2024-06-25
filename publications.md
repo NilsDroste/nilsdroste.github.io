@@ -20,7 +20,7 @@ order: 2
 
 + Henriks, S., Harring, N., **Droste, N.** (forthcoming). Voters do not punish their government for climate policies under favorable conditions. *Environmental Politics* [Accepted Manuscript]. doi: [10.1080/09644016.2024.2373606](https://doi.org/10.1080/09644016.2024.2373606)
 
-+ Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., *Droste, N.* (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. *Trees, Forests and People 16*, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1080/09644016.2024.2373606)
++ Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., **Droste, N.** (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. *Trees, Forests and People 16*, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1016/j.tfp.2024.100582)
 
 + Ekström, H., Danley, B., Clough, Y., & **Droste, N.** (2024). Barking up the wrong tree?-A guide to forest owner typology methods. *Forest Policy and Economics 163*, 103208. doi [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)
 
