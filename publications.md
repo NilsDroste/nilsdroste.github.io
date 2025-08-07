@@ -12,6 +12,15 @@ order: 2
 - [Other Publications](#other-publications)
 
 
+----
+
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
 ---
 
 ## Journal Articles
