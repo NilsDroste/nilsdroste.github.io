@@ -25,77 +25,46 @@ order: 2
 
 ## Journal Articles
 
-36. **Droste, N.** Brownell, H., D'amato, D., Ekström, H., Fridén, A., Harrinkari, T., ... & Thomsen, M. (2025). Evaluating transformative policies in complex land-use systems. *Ecological Economics*, 238, 108734. doi: [10.1016/j.ecolecon.2025.108734](https://doi.org/10.1016/j.ecolecon.2025.108734)
+<ol reversed>
 
-35. Svensson, J., Mao, J., & **Droste, N.** (2025). What do we (not) know about biodiversity finance governance?. *Current Opinion in Environmental Sustainability*, 75, 101541. doi: [10.1016/j.cosust.2025.101541](https://doi.org/10.1016/j.cosust.2025.101541)
+<li><b>Droste, N.</b> Brownell, H., D'amato, D., Ekström, H., Fridén, A., Harrinkari, T., ... & Thomsen, M. (2025). Evaluating transformative policies in complex land-use systems. <i>Ecological Economics</i>, 238, 108734. doi: [10.1016/j.ecolecon.2025.108734](https://doi.org/10.1016/j.ecolecon.2025.108734)</li>
+<li>Svensson, J., Mao, J., & <b>Droste, N.</b> (2025). What do we (not) know about biodiversity finance governance?. <i>Current Opinion in Environmental Sustainability</i>, 75, 101541. doi: [10.1016/j.cosust.2025.101541](https://doi.org/10.1016/j.cosust.2025.101541)</li>
+<li>Nebasifu, A., Ekström, H., Iliev, B., Pihlainen, S., Linser, S., Polo‐Villanueva, F. D., ... & <b>Droste, N.</b> (2025). Avoiding Nightmare Forests: Insights From a Co‐Creative Workshop. <i>Futures & Foresight Science</i>, 7(2), e70010.</li>
+<li>Nebasifu, A. A., D'Amato, D., Ekström, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & <b>Droste, N.</b> (2025). Comparing Nordic forest governance: Key informant perspectives. <i>Forest Policy and Economics</i>, 170, 103368. doi: [10.1016/j.forpol.2024.103368](https://doi.org/10.1016/j.forpol.2024.103368)</li>
+<li>Nebasifu, A., Fridén, A., Ekström, H., Pietarinen, N., Harrinkari, T., D’Amato, D., & <b>Droste, N.</b> (2024). An outlook on modalities in Nordic forest governance. <i>Forests Monitor</i>, 1(1), 16-38. doi: [10.62320/fm.v1.i1.7](https://doi.org/10.62320/fm.v1.i1.7)</li>
+<li>Henriks, S., Harring, N., <b>Droste, N.</b> (2025)  Voters do not punish their government for climate policies under favorable conditions. <i>Environmental Politics* . doi: [10.1080/09644016.2024.2373606](https://doi.org/10.1080/09644016.2024.2373606)</li>
+<li><b>Droste, N.</b>, Chatterton, B., Skovgaard, J. (2024). A political economy theory of fossil fuel subsidy reforms in OECD countries. <i>Nature Communications* 15: 5452. doi: [10.1038/s41467-024-49835-4](https://doi.org/10.1038/s41467-024-49835-4)</li>
+<li>Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., <b>Droste, N.</b> (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. <i>Trees, Forests and People</i> 16, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1016/j.tfp.2024.100582)</li>
+<li>Ekström, H., Danley, B., Clough, Y., & <b>Droste, N.</b> (2024). Barking up the wrong tree?-A guide to forest owner typology methods. <i>Forest Policy and Economics</i> 163, 103208. doi [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)</li>
+<li>Bakx, T., Trubins, R., <b>Droste, N.</b>, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. <i>European Journal of Forest Research</li> 143. doi: [10.1007/s10342-024-01657-1](https://doi.org/10.1007/s10342-024-01657-1)</li>
+<li>Ekström, H., <b>Droste, N.</b>, & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. <i>Environmental Modelling & Software</i> 175, 105998. [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)</li>
+<li>Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., <b>Droste, N.</b> (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. <i>Forest Policy and Economics</li> 160, 103142. doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)</li>
+<li>Marzelius, M. <b>Droste, N.</b> (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. <i>Forest Policy and Economics</li>141, 102765. doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)</li>
+<li><b>Droste, N.</b>, Alkan Olsson, J., Hanson, H., Knaggård, Å, Lima, G., Lundmark, L., Thoni, T., Zelli, F. (2022). A global overview of biodiversity offsetting governance. <i>Journal of Environmental Management</li> 316, 115231. doi: [10.1016/j.jenvman.2022.115231](https://doi.org/10.1016/j.jenvman.2022.115231)</li>
+<li>Finger, R. <b>Droste, N.</b>, Bartkowski, B., Ang, F. (2021) A note on performance indicators for agricultural economic journals. <i>Journal of Agricultural Economics</li> 73(2), 614-620. doi: [10.1111/1477-9552.12473](https://doi.org/10.1111/1477-9552.12473)</li>
+<li>Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., <b>Droste, N.</b> et al. (2021) A Global Review of Ecological Fiscal Transfers. <i>Nature Sustainability</li> 4(9), 756-765. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)</li>
+<li>Bartkowski, B., <b>Droste, N.</b>, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes. <i>Land Use Policy</li> 102, 105230. doi: [10.1016/j.landusepol.2020.105230](https://doi.org/10.1016/j.landusepol.2020.105230); [arXiv working paper](https://arxiv.org/abs/1908.08219)</li>
+<li><b>Droste, N.</b>, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. <i>Environmental Research Letters</li> 15, 124034. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)</li>
+<li>Krause, M., <b>Droste, N.</b>, Matzdorf, B. (2020) What makes businesses commit to nature conservation? <i>Business Strategy and the Environment</li>30(2), 741-755. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)</li>
+<li>D’Amato, Dalia, D., Bartosz, B., <b>Droste, N.</b> (2020). Reviewing the interface of bioeconomy and ecosystem service research. <i>Ambio</li> 49, 1878--1896. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)</li>
+<li>Ryu H., Coscieme L., <i>*Droste N.*</i>, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. <i>Frontiers for Young Minds</li> 8(98), doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)</li>
+<li><b>Droste, N.</b>, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. <i>Conservation Letters</li> 12, e12670. doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)</li>
+<li>Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., <b>Droste, N.</b>, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". <i>Ecosystems and People</li> 15(1), 269--287. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)</li>
+<li>D’Amato, D., <b>Droste, N.</b>, Winkler, K.J., Toppinen, A. (2019). Thinking Green, Circular or Bio: eliciting researchers' perspectives on a sustainable economy with Q method. <i>Journal of Cleaner Production</li>, 230: 460--476. doi: [10.1016/j.jclepro.2019.05.099](https://doi.org/10.1016/j.jclepro.2019.05.099)</li>
+<li><b>Droste, N.</b>, Becker, C., Ring, I., Santos, R. (2018). Decentralization Effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. <i>Environmental and Resource Economics</li> 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)</li>
+<li><b>Droste, N.</b>, D’Amato, D., Goddard, J.J. (2018). Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. <i>PLoS ONE</li> 13(9), e0204749. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749);</li>
+<li><b>Droste, N.</b>, Bartkowski, B (2018). Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). <i>Environmental and Resource Economics</li> 71(1) 205--215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)</li>
+<li><b>Droste, N.</b>, Ring, I., Santos, R., Kettunen, M. (2018). Ecological Fiscal Transfers in Europe -- Evidence-Based Design Options for a Transnational Scheme. <i>Ecological Economics</li> 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)</li>
+<li><b>Droste, N.</b>, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. <i>Environmental Policy and Governance</li> 27(5): 484--499. doi: [10.1002/eet.1774](https://doi.org/10.1002/eet.1774)</li>
+<li><b>Droste, N.</b>, Lima, G.R., May, P.H., Ring, I. (2017).  Municipal Responses to Ecological Fiscal Transfers in Brazil: A microeconometric panel data approach. <i>Environmental Policy and Governance</li> 27(4): 378--393. doi: [10.1002/eet.1760](https://doi.org/10.1002/eet.1760)</li>
+<li>D’Amato, D., <b>Droste, N.</b> , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017). Green, Circular, Bio economy: a comparative analysis of sustainability avenues. <i>Journal of Cleaner Production</li> 168: 716--734. doi: [10.1016/j.jclepro.2017.09.053](https://doi.org/10.1016/j.jclepro.2017.09.053)</li>
+<li>D’Amato, D., <b>Droste, N.</b>, Chan, S., Hofer, A.U.M. (2017). Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. <i>Environmental Values</li> 26: 413--435. doi: [10.3197/096327117X14976900137331](https://doi.org/10.3197/096327117X14976900137331); [pre-print](https://nils.droste.io/research/articles/D'Amatoetal2017.pdf)</li>
+<li><b>Droste, N.</b>, Meya, J. N. (2017). Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. <i>Journal of Environmental Planning and Management</li> 60(2): 231--248. doi: [10.1080/09640568.2016.1151405](https://doi.org/10.1080/09640568.2016.1151405)</li>
+<li>Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., <b>Droste, N.</b>, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. <i>Journal of Cleaner Production</li> 139: 361--371. doi: [10.1016/j.jclepro.2016.08.024](https://doi.org/10.1016/j.jclepro.2016.08.024)</li>
+<li>Pitkänen, K., Antikainen, R., <b>Droste, N.</b>, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. <i>Journal of Cleaner Production</li> 139: 666--676. doi: [10.1016/j.jclepro.2016.08.071](https://doi.org/10.1016/j.jclepro.2016.08.071)</li>
+<li><b>Droste, N.</b>, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016). Steering innovations towards a green economy: understanding government intervention. <i>Journal of Cleaner Production</li> 135: 426--434. doi: [10.1016/j.jclepro.2016.06.123](https://doi.org/10.1016/j.jclepro.2016.06.123)</li>
 
-34. Nebasifu, A., Ekström, H., Iliev, B., Pihlainen, S., Linser, S., Polo‐Villanueva, F. D., ... & **Droste, N.** (2025). Avoiding Nightmare Forests: Insights From a Co‐Creative Workshop. *Futures & Foresight Science*, 7(2), e70010.
-
-33. Nebasifu, A. A., D'Amato, D., Ekström, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & **Droste, N.** (2025). Comparing Nordic forest governance: Key informant perspectives. *Forest Policy and Economics*, 170, 103368. doi: [10.1016/j.forpol.2024.103368](https://doi.org/10.1016/j.forpol.2024.103368)
-
-32. Nebasifu, A., Fridén, A., Ekström, H., Pietarinen, N., Harrinkari, T., D’Amato, D., & **Droste, N.** (2024). An outlook on modalities in Nordic forest governance. *Forests Monitor*, 1(1), 16-38. doi: [10.62320/fm.v1.i1.7](https://doi.org/10.62320/fm.v1.i1.7)
-
-31. Henriks, S., Harring, N., **Droste, N.** (2025)  Voters do not punish their government for climate policies under favorable conditions. *Environmental Politics* . doi: [10.1080/09644016.2024.2373606](https://doi.org/10.1080/09644016.2024.2373606)
-
-30. **Droste, N.**, Chatterton, B., Skovgaard, J. (2024). A political economy theory of fossil fuel subsidy reforms in OECD countries. *Nature Communications* 15: 5452. doi: [10.1038/s41467-024-49835-4](https://doi.org/10.1038/s41467-024-49835-4)
-
-29. Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., **Droste, N.** (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. *Trees, Forests and People 16*, 100582. doi: [10.1016/j.tfp.2024.100582](https://doi.org/10.1016/j.tfp.2024.100582)
-
-28. Ekström, H., Danley, B., Clough, Y., & **Droste, N.** (2024). Barking up the wrong tree?-A guide to forest owner typology methods. *Forest Policy and Economics 163*, 103208. doi [10.1016/j.forpol.2024.103208](https://doi.org/10.1016/j.forpol.2024.103208)
-
-27. Bakx, T., Trubins, R., **Droste, N.**, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. *European Journal of Forest Research 143*. doi: [10.1007/s10342-024-01657-1](https://doi.org/10.1007/s10342-024-01657-1)
-
-26. Ekström, H., **Droste, N.**, & Brady, M. (2024). Modelling forests as social-ecological systems: A systematic comparison of agent-based approaches. *Environmental Modelling & Software 175x*, 105998. [10.1016/j.envsoft.2024.105998](https://doi.org/10.1016/j.envsoft.2024.105998)
-
-25. Fridén, A., D’Amato, D., Ekström, H., Iliev, B., Nebasifu, A., May, W., Thomsen, M., **Droste, N.** (2024). Mapping two centuries of forest governance in Nordic countries: An open access database. *Forest Policy and Economics 160*: 103142. doi: [10.1016/j.forpol.2023.103142](https://doi.org/10.1016/j.forpol.2023.103142)
-
-24. Marzelius, M. **Droste, N.** (2022). Livelihoods matter – a comparative political ecology of forest use on Hispaniola. *Forest Policy and Economics 141*: 102765. doi: [10.1016/j.forpol.2022.102765](https://doi.org/10.1016/j.forpol.2022.102765)
-
-23. **Droste, N.**, Alkan Olsson, J., Hanson, H., Knaggård, Å, Lima, G., Lundmark, L., Thoni, T., Zelli, F. (2022). A global overview of biodiversity offsetting governance. *Journal of Environmental Management 316*: 115231. doi: [10.1016/j.jenvman.2022.115231](https://doi.org/10.1016/j.jenvman.2022.115231)
-
-22. Finger, R. **Droste, N.**, Bartkowski, B., Ang, F. (2021) A note on performance indicators for agricultural economic journals. *Journal of Agricultural Economics 73*(2): 614-620. doi: [10.1111/1477-9552.12473](https://doi.org/10.1111/1477-9552.12473)
-
-21. Busch, J., Ring, I., Akullo, M., Amarjargal, O., Borie, M., Cassola, R.S., Cruz-Trinidad, A., **Droste, N.** et al. (2021) A Global Review of Ecological Fiscal Transfers. *Nature Sustainability 4*(9): 756-765. doi: [10.1038/s41893-021-00728-0](https://doi.org/10.1038/s41893-021-00728-0); [read cube](https://rdcu.be/cnceH)
-
-20. Bartkowski, B., **Droste, N.**, Ließ, M., Sidemo-Holm, W., Weller, U., Brady, M.V. (2021) Payments by modelled results: a novel design for agri-environmental schemes. *Land Use Policy 102*: 105230. doi: [10.1016/j.landusepol.2020.105230](https://doi.org/10.1016/j.landusepol.2020.105230); [arXiv working paper](https://arxiv.org/abs/1908.08219)
-
-19. **Droste, N.**, May, W., Clough, Y., Börjesson, G., Brady, M.V., Hedlund, K. (2020). Soil Carbon insures arable crop production against increasing adverse weather due to climate change. *Environmental Research Letters 15*: 124034. doi: [10.1088/1748-9326/abc5e3](https://doi.org/10.1088/1748-9326/abc5e3)
-
-18. Krause, M., **Droste, N.**, Matzdorf, B. (2020) What makes businesses commit to nature conservation? *Business Strategy and the Environment 30*(2): 741-755. doi: [10.1002/bse.2650](https://doi.org/10.1002/bse.2650)
-
-17. D’Amato, Dalia, D., Bartosz, B., **Droste, N.** (2020). Reviewing the interface of bioeconomy and ecosystem service research. *Ambio 49*: 1878--1896. doi: [10.1007/s13280-020-01374-0](https://doi.org/10.1007/s13280-020-01374-0)
-
-16. Ryu H., Coscieme L., **Droste N.**, Ghosh S., Nilsson L., Rana S. and Shrestha, U.B. (2020) Assessing Nature’s Contributions to People. *Frontiers for Young Minds 8*(98). doi: [10.3389/frym.2020.00098](https://doi.org/10.3389/frym.2020.00098)
-
-15. **Droste, N.**, Farley, J., Ring, I., May, P.H., Ricketts, T.H. (2019). Designing a global mechanism for intergovernmental biodiversity financing. *Conservation Letters 12*: e12670. doi: [10.1111/conl.12670](https://doi.org/10.1111/conl.12670)
-
-14. Kadykalo, A.N., Ainscough, J., López Rodriguez, M.D., **Droste, N.**, Ryu, H., Ávila Flores, G., Le Clec’h, S., C. Muñoz, M., Nilsson, L., Rana, S., Sarkar, P., Sevecke, K.J., Harmáčková, Z. (2019). Disentangling "Ecosystem Services" and "Nature's Contributions to People". *Ecosystems and People  15*(1): 269--287. doi:[10.1080/26395916.2019.1669713](https://doi.org/10.1080/26395916.2019.1669713)
-
-13. D’Amato, D., **Droste, N.**, Winkler, K.J., Toppinen, A. (2019). Thinking Green, Circular or Bio: eliciting researchers' perspectives on a sustainable economy with Q method. *Journal of Cleaner Production* 230: 460--476. doi: [10.1016/j.jclepro.2019.05.099](https://doi.org/10.1016/j.jclepro.2019.05.099)
-
-12. **Droste, N.**, Becker, C., Ring, I., Santos, R. (2018). Decentralization Effects in Ecological Fiscal Transfers: A Bayesian Structural Time Series Analysis for Portugal. *Environmental and Resource Economics* 71(4), 1027-1051. doi: [10.1007/s10640-017-0195-7](https://doi.org/10.1007/s10640-017-0195-7); [original working paper](https://ufz.de/export/data/global/143047_DP_2017_3_Droste-etal.pdf)
-
-11. **Droste, N.**, D’Amato, D., Goddard, J.J. (2018). Where communities intermingle, diversity grows -- The evolution of topics in ecosystem service research. *PLoS ONE* 13(9): e0204749. doi: [10.1371/journal.pone.0204749](https://doi.org/10.1371/journal.pone.0204749);
-
-10. **Droste, N.**, Bartkowski, B (2018). Ecosystem Service Valuation for National Accounting: A Reply to Obst, Hein and Edens (2016). *Environmental and Resource Economics* 71(1): 205--215. doi: [10.1007/s10640-017-0146-3](https://doi.org/10.1007/s10640-017-0146-3)
-
-9. **Droste, N.**, Ring, I., Santos, R., Kettunen, M. (2018). Ecological Fiscal Transfers in Europe -- Evidence-Based Design Options for a Transnational Scheme. *Ecological Economics* 147: 373--382. doi: [10.1016/j.ecolecon.2018.01.031](https://doi.org/10.1016/j.ecolecon.2018.01.031); [original working paper](https://ufz.de/export/data/global/125299_DP_10_2016_Droste_etal.pdf)
-
-8. **Droste, N.**, Ring, I., Schröter-Schlaack, C., Lenk, T. (2017). Integrating Ecological Indicators into Federal-State Fiscal Relations: A policy design study for Germany. *Environmental Policy and Governance* 27(5): 484--499. doi: [10.1002/eet.1774](https://doi.org/10.1002/eet.1774)
-
-7. **Droste, N.**, Lima, G.R., May, P.H., Ring, I. (2017).  Municipal Responses to Ecological Fiscal Transfers in Brazil: A microeconometric panel data approach. *Environmental Policy and Governance* 27(4): 378--393. doi: [10.1002/eet.1760](https://doi.org/10.1002/eet.1760)
-
-6. D’Amato, D., **Droste, N.** , Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A. (2017). Green, Circular, Bio economy: a comparative analysis of sustainability avenues. *Journal of Cleaner Production* 168: 716--734. doi: [10.1016/j.jclepro.2017.09.053](https://doi.org/10.1016/j.jclepro.2017.09.053)
-
-5. D’Amato, D., **Droste, N.**, Chan, S., Hofer, A.U.M. (2017). Green Economy: Pragmatism or Revolution? Perceptions of Young Researchers on Social Ecological Transformation. *Environmental Values* 26: 413--435. doi: [10.3197/096327117X14976900137331](https://doi.org/10.3197/096327117X14976900137331); [pre-print](https://nils.droste.io/research/articles/D'Amatoetal2017.pdf)
-
-4. **Droste, N.**, Meya, J. N. (2017). Ecosystem services in infrastructure planning – a case study of the projected deepening of the Lower Weser river in Germany. *Journal of Environmental Planning and Management* 60(2): 231--248. doi: [10.1080/09640568.2016.1151405](https://doi.org/10.1080/09640568.2016.1151405)
-
-3. Loiseau, E., Saikku, L., Antikainen, R., Leskinen, P., Pitkänen, K., **Droste, N.**, Hansjürgens, B., Kuikman, P., Thomsen, M. (2016). Green Economy and related concepts: an overview. *Journal of Cleaner Production* 139: 361--371. doi: [10.1016/j.jclepro.2016.08.024](https://doi.org/10.1016/j.jclepro.2016.08.024)
-
-2. Pitkänen, K., Antikainen, R., **Droste, N.**, Loiseau, E., Saikku, L., Aissani, L., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2016). What can be learned from practical cases of green economy? Studies from five European countries. *Journal of Cleaner Production* 139: 666--676. doi: [10.1016/j.jclepro.2016.08.071](https://doi.org/10.1016/j.jclepro.2016.08.071)
-
-1. **Droste, N.**, Hansjürgens, B., Kuikman, P., Otter, N., Antikainen, R., Leskinen, P., Pitkänen, K., Saikku, L., Loiseau, E., Thomsen, M. (2016). Steering innovations towards a green economy: understanding government intervention. *Journal of Cleaner Production* 135: 426--434. doi: [10.1016/j.jclepro.2016.06.123](https://doi.org/10.1016/j.jclepro.2016.06.123)
+</ol>
 
 <a href="#top">Back to top</a>
 
