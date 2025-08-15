@@ -25,7 +25,7 @@ order: 2
 <li>Nebasifu, A. A., D'Amato, D., Ekström, H., Pietarinen, N., Fridén, A., Harrinkari, T., ... & <b>Droste, N.</b> (2025). Comparing Nordic forest governance: Key informant perspectives. <i>Forest Policy and Economics</i>, 170, 103368. doi: <a href="https://doi.org/10.1016/j.forpol.2024.103368">10.1016/j.forpol.2024.103368</a></li>
 <li>Nebasifu, A., Fridén, A., Ekström, H., Pietarinen, N., Harrinkari, T., D’Amato, D., & <b>Droste, N.</b> (2024). An outlook on modalities in Nordic forest governance. <i>Forests Monitor</i>, 1(1), 16-38. doi: <a href="https://doi.org/10.62320/fm.v1.i1.7">10.62320/fm.v1.i1.7</a></li>
 <li>Henriks, S., Harring, N., <b>Droste, N.</b> (2025)  Voters do not punish their government for climate policies under favorable conditions. <i>Environmental Politics</i>. doi: <a href="https://doi.org/10.1080/09644016.2024.2373606">10.1080/09644016.2024.2373606</a></li>
-<li><b>Droste, N.</b>, Chatterton, B., Skovgaard, J. (2024). A political economy theory of fossil fuel subsidy reforms in OECD countries. <i>Nature Communications* 15: 5452. doi: <a href="https://doi.org/10.1038/s41467-024-49835-4">10.1038/s41467-024-49835-4</a></li>
+<li><b>Droste, N.</b>, Chatterton, B., Skovgaard, J. (2024). A political economy theory of fossil fuel subsidy reforms in OECD countries. <i>Nature Communications</i> 15: 5452. doi: <a href="https://doi.org/10.1038/s41467-024-49835-4">10.1038/s41467-024-49835-4</a></li>
 <li>Nebasifu, A. A., Pietarinen, N., Fridén, A., Ekström, H., Harrinkari, T., D'amato, D., <b>Droste, N.</b> (2024). Forest policy in Nordic countries: Expert opinions on future needs, uncertainties, and recommendations. <i>Trees, Forests and People</i> 16, 100582. doi: <a href="https://doi.org/10.1016/j.tfp.2024.100582">10.1016/j.tfp.2024.100582</a></li>
 <li>Ekström, H., Danley, B., Clough, Y., & <b>Droste, N.</b> (2024). Barking up the wrong tree?-A guide to forest owner typology methods. <i>Forest Policy and Economics</i> 163, 103208. doi: <a href="https://doi.org/10.1016/j.forpol.2024.103208">10.1016/j.forpol.2024.103208</a></li>
 <li>Bakx, T., Trubins, R., <b>Droste, N.</b>, Lidberg, W., Akselsson, C. (2024) Riparian buffer zones in production forests create unequal costs among forest owners. <i>European Journal of Forest Research</li> 143. doi: <a href="https://doi.org/10.1007/s10342-024-01657-1">10.1007/s10342-024-01657-1</a></li>
@@ -60,6 +60,8 @@ order: 2
 
 <a href="#top">Back to top</a>
 
+
+
 ---
 
 ## Book Chapters
@@ -73,7 +75,6 @@ order: 2
 <li><b>Droste, N.</b>, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. In: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) <i>Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy</i>. Heidelberg: Springer; pp. 307-322. doi: <a href="https://doi.org/10.1007/978-3-319-56091-5_18">10.1007/978-3-319-56091-5_18</a></li>
 
 <li>Hansjürgens, B., <b>Droste, N.</b>, Tockner, K. (2016). Neglected values of major water engineering projects: ecosystem services, social impacts, and economic valuation. In: Huettl, R., Bens, O., Hoechstetter, S., Bismuth, C. (eds.): ><i>Society-Water-Technology. A Critical Appraisal of Major Water Engineering Projects></i>. Heidelberg: Springer; pp. 65-78. doi: <a href="https://doi.org/10.1007/978-3-319-18971-0_5">10.1007/978-3-319-18971-0_5</a></li>
-
 
 </ol>
 
