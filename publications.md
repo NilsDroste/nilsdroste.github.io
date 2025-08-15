@@ -70,7 +70,7 @@ order: 2
 
 <li><b>Droste, N.</b>, Abdo Garcia, M. F. (2024). Zwischen La Esperanza und Siete Iglesias – Naturschutz und Bergbau in San Juan Bosco, Ecuador. In: S. Gordon, M. Lay Brander (eds.) <i>Die Urwälder Amazoniens – Lebensräume, Kontaktzonen, Projektionsfelder</i>. Neofelis, pp. 137-151.</li>
 
-<li> Illes, A., Kettunen, M., ten Brink, P., Santos, R., <b>Droste, N.</b>, Ring, I. (2017). Exploring the policy mix for biodiversity financing: Opportunities provided by environmental fiscal instruments in the EU. In: S.E. Weishaar, L. Kreiser, J.E. Milne, H. Ashiabor, M. Mehling (eds.): <i>The Green Market Transition - Carbon Taxes, Energy Subsidies and Smart Instrument Mixes</i>. Cheltenham: Edward Elgar; pp. 261-275.
+<li> Illes, A., Kettunen, M., ten Brink, P., Santos, R., <b>Droste, N.</b>, Ring, I. (2017). Exploring the policy mix for biodiversity financing: Opportunities provided by environmental fiscal instruments in the EU. In: S.E. Weishaar, L. Kreiser, J.E. Milne, H. Ashiabor, M. Mehling (eds.): <i>The Green Market Transition - Carbon Taxes, Energy Subsidies and Smart Instrument Mixes</i>. Cheltenham: Edward Elgar; pp. 261-275.</li>
 
 <li><b>Droste, N.</b>, Schröter-Schlaack, C., Hansjürgens, B., Zimmermann, H. (2017). Implementing nature‐based solutions in urban areas: financing and governance aspects. In: N. Kabisch, A. Bonn, H. Korn, J. Stadler (eds.) <i>Nature‐based Solutions to Climate Change in Urban Areas ‐ Linkages of science, society and policy</i>. Heidelberg: Springer; pp. 307-322. doi: <a href="https://doi.org/10.1007/978-3-319-56091-5_18">10.1007/978-3-319-56091-5_18</a></li>
 
