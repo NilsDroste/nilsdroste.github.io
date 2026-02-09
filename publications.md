@@ -112,6 +112,8 @@ order: 2
 
 ## Reports and Chapters therein
 
++  Svensson, J., Wallin, I., **Droste, N.** (2024) Makten över skogen. Skogstyrelsen, Dnr 2025/757. [link](https://www.skogsstyrelsen.se/globalassets/om-oss/rapporter/rapporter-2026/rapport-2026-03-makten-over-skogen.pdf)
+
 + Kettunen, M., Illes, A., Rayment, M., Primmer, E., Verstraeten, Y., Rekola, A., Ring, I., Tucker, G., Baldock, D., **Droste, N.**, Santos, R., Rantala, S., Ebrahim, N. and ten Brink, P. (2017). *Integration approach to EU biodiversity financing: evaluation of results and analysis of options for the future*. Institute for European Environmental Policy (IEEP): Brussels / London.
 
 + Saikku, L., Antikainen, R., **Droste, N.**, Pitkänen, K., Loiseau, E., Hansjürgens, B., Kuikman, P., Leskinen, P., Thomsen, M. (2015). *Implementing the green economy in a European Context. Lessons learned from theories, concepts and case studies*. PEER Report No. 3. Helsinki: Partnership for European Environmental Research.
