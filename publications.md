@@ -17,7 +17,7 @@ order: 2
 ## Journal Articles
 
 <ol reversed>
-<li><b>Droste, N.</b>, Gipperth, L., Sandberg, J. (2025) Editorial overview: Biodiversity finance. <i>Current Opinion in Environmental Sustainability</i>, 78:101592. doi: <a href="https://doi.org/10.1016/j.cosust.2025.101592">10.1016/j.cosust.2025.101592</a></li>
+<li><b>Droste, N.</b>, Gipperth, L., Sandberg, J. (2026) Editorial overview: Biodiversity finance. <i>Current Opinion in Environmental Sustainability</i>, 78:101592. doi: <a href="https://doi.org/10.1016/j.cosust.2025.101592">10.1016/j.cosust.2025.101592</a></li>
 <li>Stenseke, M., Olsson, J. A., Arvidsson, S., <b>Droste, N.</b>, Elliot, V., Gipperth, L., & Smith, H. G. (2025). Defining and operationalizing ‘nature-positive’—a question of power. <i>Current Opinion in Environmental Sustainability</i>, 77, 101581. doi: 
 <a href="https://doi.org/10.1016/j.cosust.2025.101581">10.1016/j.cosust.2025.101581</a></li>
 <li>Iliev, B., Bentsen, N., Brownell, P., <b>Droste, N.</b> D'Amato, D. Arto, I. May, W., Thomsen, M., (2025) A Conceptual Framework for Assessing Pathways Towards Climate Neutrality and Biodiversity Conservation in a Circular Forest-Based Economy. <i>Ecological Economics</i>, 238, 108749. doi: <a href="https://doi.org/10.1016/j.ecolecon.2025.108749">10.1016/j.ecolecon.2025.108749</a></li>

@@ -4,9 +4,9 @@ title: About
 order: 3
 ---
 
-I am Senior Lecturer (Associate Professor) in Environmental Politics at the [Political Science Department](https://www.svet.lu.se/en/start-department-of-political-science) and the strategic research area [Biodiversity and Ecosystems in a Changing Climate](https://www.becc.lu.se/) where I am principal investigator and deputy theme leader of the biodiversity theme.
+I am Associate Professor in Associate Professor in Ecological Economics at the [Institute for Food and Resource Economics](https://ifro.ku.dk/english/) at Copenhagen University.
 
-I want to understand how environmental policies can help societies transition towards a sustainable land use. In particular I am insterested in how different institutions mediate the relation between humans and the natural environment - be those cultural, markets, or state regulation. In my view we need to understand both the functioning of ecosystems as well as the societal processes when analyzing the role and functioning of these mediating institutions. Forest provide a particularly interesting case to study these, given their multifunctionality and the multitude of interests in them.
+I want to understand how policies can help societies transition towards a sustainable land use. In particular I am insterested in how different institutions mediate the relation between humans and the natural environment - be those cultural, markets, or state regulation. In my view we need to understand both the functioning of ecosystems as well as the societal processes when analyzing the role and functioning of these mediating institutions. Forest provide a particularly interesting case to study these, given their multifunctionality and the multitude of interests in them.
 
 As a Post-Doc at the [Center for Environmental and Climate Research](https://www.cec.lu.se/) (CEC), Lund University, I worked on insurance values of soil biodiversity.
 
