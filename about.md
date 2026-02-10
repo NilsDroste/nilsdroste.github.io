@@ -4,7 +4,7 @@ title: About
 order: 3
 ---
 
-I am Associate Professor in Associate Professor in Ecological Economics at the [Institute for Food and Resource Economics](https://ifro.ku.dk/english/) at Copenhagen University.
+I am Associate Professor in Ecological Economics at the [Institute for Food and Resource Economics](https://ifro.ku.dk/english/) at Copenhagen University.
 
 I want to understand how policies can help societies transition towards a sustainable land use. In particular I am insterested in how different institutions mediate the relation between humans and the natural environment - be those cultural, markets, or state regulation. In my view we need to understand both the functioning of ecosystems as well as the societal processes when analyzing the role and functioning of these mediating institutions. Forest provide a particularly interesting case to study these, given their multifunctionality and the multitude of interests in them.
 
